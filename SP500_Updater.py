@@ -6,7 +6,7 @@ import os
 
 # GitHub configuration
 GITHUB_TOKEN = SP500_TOKEN_CODE  # Replace with your PAT
-REPO_NAME = "jeraldkim/jerrykim/sp500"       # Replace with your repo (e.g., "johnDoe/my-data")
+REPO_NAME = "jeraldkim/SP500"       # Replace with your repo (e.g., "johnDoe/my-data")
 FILE_PATH = "sp500_companies.json"          # File path in the repo
 
 # Web scraping
