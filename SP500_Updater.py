@@ -3,11 +3,18 @@ from bs4 import BeautifulSoup
 import json
 from github import Github
 import os
+from dotenv import load_dotenv
+import yfinance as yf
+from datetime import datetime, timedelta
 
-# GitHub configuration
-GITHUB_TOKEN = SP500_TOKEN_CODE  # Replace with your PAT
-REPO_NAME = "jeraldkim/SP500"       # Replace with your repo (e.g., "johnDoe/my-data")
-FILE_PATH = "sp500_companies.json"          # File path in the repo
+# Load environment variables
+load_dotenv()
+GITHUB_TOKEN = SP500_TOKEN_CODE
+REPO_NAME = "jeraldkim/SP500"  # Replace with your repo
+FILE_PATH = "sp500_companies.json"
+
+if not GITHUB_TOKEN:
+    raise ValueError("GitHub token not found. Please set GITHUB_TOKEN in .env file.")
 
 # Web scraping
 url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
@@ -33,43 +40,60 @@ for row in table.find_all('tr')[1:]:
                 company_data[headers[i]] = cell.text.strip()
         companies.append(company_data)
 
+# Fetch price data using yfinance
+today = datetime.now().date()
+yesterday = today - timedelta(days=1)
+
+for company in companies:
+    symbol = company['Symbol']
+    try:
+        # Fetch last two days' data to calculate daily change
+        stock = yf.Ticker(symbol)
+        hist = stock.history(period="2d")
+        if len(hist) >= 2:
+            close_today = hist['Close'][-1]
+            close_yesterday = hist['Close'][-2]
+            daily_change = ((close_today - close_yesterday) / close_yesterday) * 100
+            company['ClosePrice'] = round(close_today, 2)
+            company['DailyChangePercent'] = round(daily_change, 2)
+            company['Date'] = today.strftime("%Y-%m-%d")
+        else:
+            company['ClosePrice'] = None
+            company['DailyChangePercent'] = None
+            company['Date'] = today.strftime("%Y-%m-%d")
+    except Exception as e:
+        print(f"Error fetching data for {symbol}: {e}")
+        company['ClosePrice'] = None
+        company['DailyChangePercent'] = None
+        company['Date'] = today.strftime("%Y-%m-%d")
+
 # Save to local JSON file temporarily
 with open('sp500_companies.json', 'w', encoding='utf-8') as f:
     json.dump(companies, f, indent=4)
 
 # Push to GitHub
 try:
-    # Initialize GitHub client
     g = Github(GITHUB_TOKEN)
     repo = g.get_repo(REPO_NAME)
-
-    # Read the JSON file content
     with open('sp500_companies.json', 'r', encoding='utf-8') as f:
         content = f.read()
-
-    # Check if file exists in repo
     try:
         file = repo.get_contents(FILE_PATH)
-        # Update existing file
         repo.update_file(
             path=FILE_PATH,
-            message="Update sp500_companies.json with latest data",
+            message=f"Update sp500_companies.json with price data for {today}",
             content=content,
             sha=file.sha
         )
         print(f"Updated {FILE_PATH} in {REPO_NAME}")
     except:
-        # Create new file
         repo.create_file(
             path=FILE_PATH,
-            message="Add sp500_companies.json with S&P 500 data",
+            message=f"Add sp500_companies.json with price data for {today}",
             content=content
         )
         print(f"Created {FILE_PATH} in {REPO_NAME}")
-
-    # Clean up local file
     os.remove('sp500_companies.json')
-
 except Exception as e:
     print(f"Error pushing to GitHub: {e}")
 
