@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 
 # Load environment variables
 load_dotenv()
-GITHUB_TOKEN = SP500_TOKEN_CODE
+GITHUB_TOKEN = os.getenv("PAT")
 REPO_NAME = "jeraldkim/SP500"  # Replace with your repo
 FILE_PATH = "sp500_companies.json"
 
