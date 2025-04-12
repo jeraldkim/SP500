@@ -1,87 +1,76 @@
 import requests
 from bs4 import BeautifulSoup
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-import datetime
-import logging
+import json
+from github import Github
+import os
 
-# Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+# GitHub configuration
+GITHUB_TOKEN = "your-personal-access-token"  # Replace with your PAT
+REPO_NAME = "your-username/your-repo"       # Replace with your repo (e.g., "johnDoe/my-data")
+FILE_PATH = "sp500_companies.json"          # File path in the repo
 
-def scrape_sp500():
+# Web scraping
+url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+response = requests.get(url)
+soup = BeautifulSoup(response.text, 'html.parser')
+table = soup.find('table', {'id': 'constituents'})
+
+# Initialize list to store company data
+companies = []
+
+# Get table headers
+headers = [th.text.strip() for th in table.find('tr').find_all('th')]
+
+# Iterate through table rows (skip header row)
+for row in table.find_all('tr')[1:]:
+    cells = row.find_all('td')
+    if cells:
+        company_data = {}
+        for i, cell in enumerate(cells):
+            if headers[i] == 'Symbol' and cell.find('a'):
+                company_data[headers[i]] = cell.find('a').text.strip()
+            else:
+                company_data[headers[i]] = cell.text.strip()
+        companies.append(company_data)
+
+# Save to local JSON file temporarily
+with open('sp500_companies.json', 'w', encoding='utf-8') as f:
+    json.dump(companies, f, indent=4)
+
+# Push to GitHub
+try:
+    # Initialize GitHub client
+    g = Github(GITHUB_TOKEN)
+    repo = g.get_repo(REPO_NAME)
+
+    # Read the JSON file content
+    with open('sp500_companies.json', 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # Check if file exists in repo
     try:
-        # URL of the Wikipedia page
-        url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        
-        # Fetch the page
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        logger.info("Fetched page successfully")
-        
-        # Parse with BeautifulSoup
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Find all wikitable sortable tables
-        tables = soup.find_all('table', class_='wikitable sortable')
-        if not tables:
-            logger.error("No wikitable sortable tables found")
-            return
-        
-        # Select the correct table (first one with "Symbol" header)
-        target_table = None
-        for i, table in enumerate(tables):
-            headers = [th.get_text(strip=True) for th in table.find_all('th')]
-            logger.info(f"Table {i+1} headers: {headers}")
-            if "Symbol" in headers:
-                target_table = table
-                logger.info(f"Selected table {i+1} with Symbol header")
-                break
-        
-        if not target_table:
-            logger.error("No table found with 'Symbol' header")
-            return
-        
-        # Extract data
-        data = []
-        # Get headers
-        headers = [th.get_text(strip=True) for th in target_table.find_all('th')]
-        data.append(headers)
-        logger.info(f"Headers: {headers}")
-        
-        # Get rows
-        for row in target_table.find_all('tr')[1:]:  # Skip header row
-            cells = [td.get_text(strip=True) for td in row.find_all('td')]
-            if cells:  # Skip empty rows
-                # Optionally limit to 4 columns if desired
-                # cells = cells[:4]  # Uncomment to get only Symbol, Security, Sector, Sub-Industry
-                data.append(cells)
-        
-        if not data[1:]:  # Check if there are data rows beyond headers
-            logger.error("No data rows extracted")
-            return
-        
-        logger.info(f"Extracted {len(data)} rows, {len(data[0])} columns")
-        
-        # Connect to Google Sheets
-        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-        creds = ServiceAccountCredentials.from_json_keyfile_name('your-service-account-key.json', scope)
-        client = gspread.authorize(creds)
-        
-        # Open the Google Sheet
-        sheet = client.open("Your Google Sheet Name").sheet1  # Replace with your sheet name
-        
-        # Clear existing data
-        sheet.clear()
-        
-        # Write new data
-        sheet.update('A1', data)
-        logger.info(f"Updated Google Sheet at {datetime.datetime.now()}")
-        
-    except Exception as e:
-        logger.error(f"Error: {str(e)}")
-        return
+        file = repo.get_contents(FILE_PATH)
+        # Update existing file
+        repo.update_file(
+            path=FILE_PATH,
+            message="Update sp500_companies.json with latest data",
+            content=content,
+            sha=file.sha
+        )
+        print(f"Updated {FILE_PATH} in {REPO_NAME}")
+    except:
+        # Create new file
+        repo.create_file(
+            path=FILE_PATH,
+            message="Add sp500_companies.json with S&P 500 data",
+            content=content
+        )
+        print(f"Created {FILE_PATH} in {REPO_NAME}")
 
-if __name__ == "__main__":
-    scrape_sp500()
+    # Clean up local file
+    os.remove('sp500_companies.json')
+
+except Exception as e:
+    print(f"Error pushing to GitHub: {e}")
+
+print("Script completed")
