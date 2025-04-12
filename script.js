@@ -1,6 +1,6 @@
 $(document).ready(function() {
     // Fetch JSON from GitHub
-    const jsonUrl = 'https://raw.githubusercontent.com/your-username/your-repo/main/sp500_companies.json';
+    const jsonUrl = 'https://raw.githubusercontent.com/jeraldkim/SP500/main/sp500_companies.json';
 
     fetch(jsonUrl)
         .then(response => response.json())
