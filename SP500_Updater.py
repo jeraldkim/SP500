@@ -5,8 +5,8 @@ from github import Github
 import os
 
 # GitHub configuration
-GITHUB_TOKEN = "your-personal-access-token"  # Replace with your PAT
-REPO_NAME = "your-username/your-repo"       # Replace with your repo (e.g., "johnDoe/my-data")
+GITHUB_TOKEN = SP500_TOKEN_CODE  # Replace with your PAT
+REPO_NAME = "jeraldkim/jerrykim/sp500"       # Replace with your repo (e.g., "johnDoe/my-data")
 FILE_PATH = "sp500_companies.json"          # File path in the repo
 
 # Web scraping
