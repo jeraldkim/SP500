@@ -8,9 +8,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000066740",
         "Founded": "1902",
-        "ClosePrice": 147.18,
-        "DailyChangePercent": 1.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 144.77,
+        "DailyChangePercent": -1.64,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AOS",
@@ -21,9 +21,9 @@
         "Date added": "2017-07-26",
         "CIK": "0000091142",
         "Founded": "1916",
-        "ClosePrice": 65.43,
-        "DailyChangePercent": -0.47,
-        "Date": "2025-06-12"
+        "ClosePrice": 64.25,
+        "DailyChangePercent": -1.8,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ABT",
@@ -34,9 +34,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000001800",
         "Founded": "1888",
-        "ClosePrice": 135.28,
+        "ClosePrice": 136.45,
         "DailyChangePercent": 0.86,
-        "Date": "2025-06-12"
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ABBV",
@@ -47,9 +47,9 @@
         "Date added": "2012-12-31",
         "CIK": "0001551152",
         "Founded": "2013 (1888)",
-        "ClosePrice": 191.5,
-        "DailyChangePercent": 1.06,
-        "Date": "2025-06-12"
+        "ClosePrice": 192.42,
+        "DailyChangePercent": 0.48,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ACN",
@@ -60,9 +60,9 @@
         "Date added": "2011-07-06",
         "CIK": "0001467373",
         "Founded": "1989",
-        "ClosePrice": 319.22,
-        "DailyChangePercent": -0.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 318.13,
+        "DailyChangePercent": -0.34,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ADBE",
@@ -73,9 +73,9 @@
         "Date added": "1997-05-05",
         "CIK": "0000796343",
         "Founded": "1982",
-        "ClosePrice": 412.84,
-        "DailyChangePercent": -0.77,
-        "Date": "2025-06-12"
+        "ClosePrice": 413.68,
+        "DailyChangePercent": 0.2,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AMD",
@@ -86,9 +86,9 @@
         "Date added": "2017-03-20",
         "CIK": "0000002488",
         "Founded": "1969",
-        "ClosePrice": 121.14,
-        "DailyChangePercent": -1.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 118.5,
+        "DailyChangePercent": -2.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AES",
@@ -99,9 +99,9 @@
         "Date added": "1998-10-02",
         "CIK": "0000874761",
         "Founded": "1981",
-        "ClosePrice": 11.48,
-        "DailyChangePercent": 1.68,
-        "Date": "2025-06-12"
+        "ClosePrice": 11.54,
+        "DailyChangePercent": 0.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AFL",
@@ -112,9 +112,9 @@
         "Date added": "1999-05-28",
         "CIK": "0000004977",
         "Founded": "1955",
-        "ClosePrice": 101.35,
-        "DailyChangePercent": -0.9,
-        "Date": "2025-06-12"
+        "ClosePrice": 102.63,
+        "DailyChangePercent": 1.26,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "A",
@@ -125,9 +125,9 @@
         "Date added": "2000-06-05",
         "CIK": "0001090872",
         "Founded": "1999",
-        "ClosePrice": 119.72,
-        "DailyChangePercent": -0.66,
-        "Date": "2025-06-12"
+        "ClosePrice": 118.91,
+        "DailyChangePercent": -0.68,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "APD",
@@ -138,9 +138,9 @@
         "Date added": "1985-04-30",
         "CIK": "0000002969",
         "Founded": "1940",
-        "ClosePrice": 282.21,
-        "DailyChangePercent": 0.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 283.28,
+        "DailyChangePercent": 0.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ABNB",
@@ -151,9 +151,9 @@
         "Date added": "2023-09-18",
         "CIK": "0001559720",
         "Founded": "2008",
-        "ClosePrice": 138.06,
-        "DailyChangePercent": -0.36,
-        "Date": "2025-06-12"
+        "ClosePrice": 138.81,
+        "DailyChangePercent": 0.54,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AKAM",
@@ -164,9 +164,9 @@
         "Date added": "2007-07-12",
         "CIK": "0001086222",
         "Founded": "1998",
-        "ClosePrice": 78.19,
-        "DailyChangePercent": -0.1,
-        "Date": "2025-06-12"
+        "ClosePrice": 78.51,
+        "DailyChangePercent": 0.41,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ALB",
@@ -177,9 +177,9 @@
         "Date added": "2016-07-01",
         "CIK": "0000915913",
         "Founded": "1994",
-        "ClosePrice": 65.08,
-        "DailyChangePercent": 1.37,
-        "Date": "2025-06-12"
+        "ClosePrice": 62.48,
+        "DailyChangePercent": -4.0,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ARE",
@@ -190,9 +190,9 @@
         "Date added": "2017-03-20",
         "CIK": "0001035443",
         "Founded": "1994",
-        "ClosePrice": 73.19,
-        "DailyChangePercent": -0.19,
-        "Date": "2025-06-12"
+        "ClosePrice": 73.06,
+        "DailyChangePercent": -0.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ALGN",
@@ -203,9 +203,9 @@
         "Date added": "2017-06-19",
         "CIK": "0001097149",
         "Founded": "1997",
-        "ClosePrice": 185.48,
-        "DailyChangePercent": -1.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 181.69,
+        "DailyChangePercent": -2.04,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ALLE",
@@ -216,9 +216,9 @@
         "Date added": "2013-12-02",
         "CIK": "0001579241",
         "Founded": "1908",
-        "ClosePrice": 137.94,
-        "DailyChangePercent": -1.24,
-        "Date": "2025-06-12"
+        "ClosePrice": 138.67,
+        "DailyChangePercent": 0.53,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LNT",
@@ -229,9 +229,9 @@
         "Date added": "2016-07-01",
         "CIK": "0000352541",
         "Founded": "1917",
-        "ClosePrice": 61.13,
-        "DailyChangePercent": 0.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 61.53,
+        "DailyChangePercent": 0.65,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ALL",
@@ -242,9 +242,9 @@
         "Date added": "1995-07-13",
         "CIK": "0000899051",
         "Founded": "1931",
-        "ClosePrice": 196.18,
-        "DailyChangePercent": -0.11,
-        "Date": "2025-06-12"
+        "ClosePrice": 200.32,
+        "DailyChangePercent": 2.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GOOGL",
@@ -255,9 +255,9 @@
         "Date added": "2014-04-03",
         "CIK": "0001652044",
         "Founded": "1998",
-        "ClosePrice": 177.35,
-        "DailyChangePercent": -0.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 175.7,
+        "DailyChangePercent": -0.93,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GOOG",
@@ -268,9 +268,9 @@
         "Date added": "2006-04-03",
         "CIK": "0001652044",
         "Founded": "1998",
-        "ClosePrice": 178.79,
-        "DailyChangePercent": -0.68,
-        "Date": "2025-06-12"
+        "ClosePrice": 176.97,
+        "DailyChangePercent": -1.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MO",
@@ -281,9 +281,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000764180",
         "Founded": "1985",
-        "ClosePrice": 59.91,
-        "DailyChangePercent": 2.31,
-        "Date": "2025-06-12"
+        "ClosePrice": 59.92,
+        "DailyChangePercent": 0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AMZN",
@@ -294,9 +294,9 @@
         "Date added": "2005-11-18",
         "CIK": "0001018724",
         "Founded": "1994",
-        "ClosePrice": 213.2,
-        "DailyChangePercent": -2.03,
-        "Date": "2025-06-12"
+        "ClosePrice": 213.24,
+        "DailyChangePercent": 0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AMCR",
@@ -307,9 +307,9 @@
         "Date added": "2019-06-07",
         "CIK": "0001748790",
         "Founded": "2019 (1860)",
-        "ClosePrice": 9.16,
-        "DailyChangePercent": -0.87,
-        "Date": "2025-06-12"
+        "ClosePrice": 9.24,
+        "DailyChangePercent": 0.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AEE",
@@ -320,9 +320,9 @@
         "Date added": "1991-09-19",
         "CIK": "0001002910",
         "Founded": "1902",
-        "ClosePrice": 95.85,
-        "DailyChangePercent": 0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 97.17,
+        "DailyChangePercent": 1.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AEP",
@@ -333,9 +333,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000004904",
         "Founded": "1906",
-        "ClosePrice": 101.94,
-        "DailyChangePercent": 0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 103.02,
+        "DailyChangePercent": 1.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AXP",
@@ -346,9 +346,9 @@
         "Date added": "1976-06-30",
         "CIK": "0000004962",
         "Founded": "1850",
-        "ClosePrice": 299.1,
-        "DailyChangePercent": -0.14,
-        "Date": "2025-06-12"
+        "ClosePrice": 297.99,
+        "DailyChangePercent": -0.37,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AIG",
@@ -359,9 +359,9 @@
         "Date added": "1980-03-31",
         "CIK": "0000005272",
         "Founded": "1919",
-        "ClosePrice": 84.4,
-        "DailyChangePercent": 0.08,
-        "Date": "2025-06-12"
+        "ClosePrice": 85.8,
+        "DailyChangePercent": 1.66,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AMT",
@@ -372,9 +372,9 @@
         "Date added": "2007-11-19",
         "CIK": "0001053507",
         "Founded": "1995",
-        "ClosePrice": 214.36,
-        "DailyChangePercent": -0.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 217.7,
+        "DailyChangePercent": 1.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AWK",
@@ -385,9 +385,9 @@
         "Date added": "2016-03-04",
         "CIK": "0001410636",
         "Founded": "1886",
-        "ClosePrice": 140.61,
-        "DailyChangePercent": -0.47,
-        "Date": "2025-06-12"
+        "ClosePrice": 141.32,
+        "DailyChangePercent": 0.5,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AMP",
@@ -398,9 +398,9 @@
         "Date added": "2005-10-03",
         "CIK": "0000820027",
         "Founded": "1894",
-        "ClosePrice": 515.65,
-        "DailyChangePercent": -0.2,
-        "Date": "2025-06-12"
+        "ClosePrice": 515.55,
+        "DailyChangePercent": -0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AME",
@@ -411,9 +411,9 @@
         "Date added": "2013-09-23",
         "CIK": "0001037868",
         "Founded": "1930",
-        "ClosePrice": 180.9,
-        "DailyChangePercent": 0.57,
-        "Date": "2025-06-12"
+        "ClosePrice": 179.97,
+        "DailyChangePercent": -0.51,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AMGN",
@@ -424,9 +424,9 @@
         "Date added": "1992-01-02",
         "CIK": "0000318154",
         "Founded": "1980",
-        "ClosePrice": 291.81,
-        "DailyChangePercent": -0.55,
-        "Date": "2025-06-12"
+        "ClosePrice": 297.29,
+        "DailyChangePercent": 1.88,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "APH",
@@ -437,9 +437,9 @@
         "Date added": "2008-09-30",
         "CIK": "0000820313",
         "Founded": "1932",
-        "ClosePrice": 93.07,
-        "DailyChangePercent": 0.63,
-        "Date": "2025-06-12"
+        "ClosePrice": 94.6,
+        "DailyChangePercent": 1.64,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ADI",
@@ -450,9 +450,9 @@
         "Date added": "1999-10-12",
         "CIK": "0000006281",
         "Founded": "1965",
-        "ClosePrice": 232.54,
-        "DailyChangePercent": -0.34,
-        "Date": "2025-06-12"
+        "ClosePrice": 232.12,
+        "DailyChangePercent": -0.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ANSS",
@@ -463,9 +463,9 @@
         "Date added": "2017-06-19",
         "CIK": "0001013462",
         "Founded": "1969",
-        "ClosePrice": 346.53,
-        "DailyChangePercent": 0.15,
-        "Date": "2025-06-12"
+        "ClosePrice": 343.5,
+        "DailyChangePercent": -0.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AON",
@@ -476,9 +476,9 @@
         "Date added": "1996-04-23",
         "CIK": "0000315293",
         "Founded": "1982 (1919)",
-        "ClosePrice": 349.48,
-        "DailyChangePercent": -0.63,
-        "Date": "2025-06-12"
+        "ClosePrice": 355.78,
+        "DailyChangePercent": 1.8,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "APA",
@@ -489,9 +489,9 @@
         "Date added": "1997-07-28",
         "CIK": "0001841666",
         "Founded": "1954",
-        "ClosePrice": 19.61,
-        "DailyChangePercent": 1.71,
-        "Date": "2025-06-12"
+        "ClosePrice": 19.95,
+        "DailyChangePercent": 1.73,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "APO",
@@ -502,9 +502,9 @@
         "Date added": "2024-12-23",
         "CIK": "0001858681",
         "Founded": "1990",
-        "ClosePrice": 138.03,
-        "DailyChangePercent": 1.78,
-        "Date": "2025-06-12"
+        "ClosePrice": 138.11,
+        "DailyChangePercent": 0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AAPL",
@@ -515,9 +515,9 @@
         "Date added": "1982-11-30",
         "CIK": "0000320193",
         "Founded": "1977",
-        "ClosePrice": 198.78,
-        "DailyChangePercent": -1.92,
-        "Date": "2025-06-12"
+        "ClosePrice": 199.2,
+        "DailyChangePercent": 0.21,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AMAT",
@@ -528,9 +528,9 @@
         "Date added": "1995-03-16",
         "CIK": "0000006951",
         "Founded": "1967",
-        "ClosePrice": 172.79,
-        "DailyChangePercent": -0.56,
-        "Date": "2025-06-12"
+        "ClosePrice": 175.0,
+        "DailyChangePercent": 1.28,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "APTV",
@@ -541,9 +541,9 @@
         "Date added": "2012-12-24",
         "CIK": "0001521332",
         "Founded": "1994",
-        "ClosePrice": 70.19,
-        "DailyChangePercent": -0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 69.68,
+        "DailyChangePercent": -0.73,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ACGL",
@@ -554,9 +554,9 @@
         "Date added": "2022-11-01",
         "CIK": "0000947484",
         "Founded": "1995",
-        "ClosePrice": 89.39,
-        "DailyChangePercent": -0.42,
-        "Date": "2025-06-12"
+        "ClosePrice": 91.91,
+        "DailyChangePercent": 2.82,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ADM",
@@ -567,9 +567,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000007084",
         "Founded": "1902",
-        "ClosePrice": 48.67,
-        "DailyChangePercent": -0.14,
-        "Date": "2025-06-12"
+        "ClosePrice": 49.66,
+        "DailyChangePercent": 2.03,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ANET",
@@ -580,9 +580,9 @@
         "Date added": "2018-08-28",
         "CIK": "0001596532",
         "Founded": "2004",
-        "ClosePrice": 94.21,
-        "DailyChangePercent": 0.54,
-        "Date": "2025-06-12"
+        "ClosePrice": 95.77,
+        "DailyChangePercent": 1.66,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AJG",
@@ -593,9 +593,9 @@
         "Date added": "2016-05-31",
         "CIK": "0000354190",
         "Founded": "1927",
-        "ClosePrice": 312.94,
-        "DailyChangePercent": -0.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 320.15,
+        "DailyChangePercent": 2.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AIZ",
@@ -606,9 +606,9 @@
         "Date added": "2007-04-10",
         "CIK": "0001267238",
         "Founded": "1892",
-        "ClosePrice": 196.54,
-        "DailyChangePercent": 0.31,
-        "Date": "2025-06-12"
+        "ClosePrice": 199.2,
+        "DailyChangePercent": 1.35,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "T",
@@ -619,9 +619,9 @@
         "Date added": "1983-11-30",
         "CIK": "0000732717",
         "Founded": "1983 (1885)",
-        "ClosePrice": 28.34,
-        "DailyChangePercent": -0.28,
-        "Date": "2025-06-12"
+        "ClosePrice": 28.27,
+        "DailyChangePercent": -0.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ATO",
@@ -632,9 +632,9 @@
         "Date added": "2019-02-15",
         "CIK": "0000731802",
         "Founded": "1906",
-        "ClosePrice": 152.47,
-        "DailyChangePercent": -0.33,
-        "Date": "2025-06-12"
+        "ClosePrice": 154.49,
+        "DailyChangePercent": 1.32,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ADSK",
@@ -645,9 +645,9 @@
         "Date added": "1989-12-01",
         "CIK": "0000769397",
         "Founded": "1982",
-        "ClosePrice": 296.77,
-        "DailyChangePercent": -0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 298.57,
+        "DailyChangePercent": 0.61,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ADP",
@@ -658,9 +658,9 @@
         "Date added": "1981-03-31",
         "CIK": "0000008670",
         "Founded": "1949",
-        "ClosePrice": 312.36,
-        "DailyChangePercent": -0.69,
-        "Date": "2025-06-12"
+        "ClosePrice": 309.75,
+        "DailyChangePercent": -0.84,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AZO",
@@ -671,9 +671,9 @@
         "Date added": "1997-01-02",
         "CIK": "0000866787",
         "Founded": "1979",
-        "ClosePrice": 3658.59,
-        "DailyChangePercent": -1.48,
-        "Date": "2025-06-12"
+        "ClosePrice": 3683.47,
+        "DailyChangePercent": 0.68,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AVB",
@@ -684,9 +684,9 @@
         "Date added": "2007-01-10",
         "CIK": "0000915912",
         "Founded": "1978",
-        "ClosePrice": 206.54,
-        "DailyChangePercent": -0.69,
-        "Date": "2025-06-12"
+        "ClosePrice": 208.83,
+        "DailyChangePercent": 1.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AVY",
@@ -697,9 +697,9 @@
         "Date added": "1987-12-31",
         "CIK": "0000008818",
         "Founded": "1935",
-        "ClosePrice": 177.35,
-        "DailyChangePercent": -1.52,
-        "Date": "2025-06-12"
+        "ClosePrice": 179.34,
+        "DailyChangePercent": 1.12,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AXON",
@@ -710,9 +710,9 @@
         "Date added": "2023-05-04",
         "CIK": "0001069183",
         "Founded": "1993",
-        "ClosePrice": 778.36,
-        "DailyChangePercent": 2.06,
-        "Date": "2025-06-12"
+        "ClosePrice": 775.2,
+        "DailyChangePercent": -0.41,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BKR",
@@ -723,9 +723,9 @@
         "Date added": "2017-07-07",
         "CIK": "0001701605",
         "Founded": "2017",
-        "ClosePrice": 39.03,
-        "DailyChangePercent": -0.13,
-        "Date": "2025-06-12"
+        "ClosePrice": 38.63,
+        "DailyChangePercent": -1.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BALL",
@@ -736,9 +736,9 @@
         "Date added": "1984-10-31",
         "CIK": "0000009389",
         "Founded": "1880",
-        "ClosePrice": 54.93,
-        "DailyChangePercent": -0.16,
-        "Date": "2025-06-12"
+        "ClosePrice": 55.15,
+        "DailyChangePercent": 0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BAC",
@@ -749,9 +749,9 @@
         "Date added": "1976-06-30",
         "CIK": "0000070858",
         "Founded": "1998 (1923 / 1874)",
-        "ClosePrice": 44.73,
-        "DailyChangePercent": -0.8,
-        "Date": "2025-06-12"
+        "ClosePrice": 44.62,
+        "DailyChangePercent": -0.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BAX",
@@ -762,9 +762,9 @@
         "Date added": "1972-09-30",
         "CIK": "0000010456",
         "Founded": "1931",
-        "ClosePrice": 31.4,
-        "DailyChangePercent": -1.01,
-        "Date": "2025-06-12"
+        "ClosePrice": 31.36,
+        "DailyChangePercent": -0.13,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BDX",
@@ -775,9 +775,9 @@
         "Date added": "1972-09-30",
         "CIK": "0000010795",
         "Founded": "1897",
-        "ClosePrice": 172.72,
-        "DailyChangePercent": -0.96,
-        "Date": "2025-06-12"
+        "ClosePrice": 174.46,
+        "DailyChangePercent": 1.01,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BRK.B",
@@ -790,7 +790,7 @@
         "Founded": "1839",
         "ClosePrice": null,
         "DailyChangePercent": null,
-        "Date": "2025-06-12"
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BBY",
@@ -801,9 +801,9 @@
         "Date added": "1999-06-29",
         "CIK": "0000764478",
         "Founded": "1966",
-        "ClosePrice": 72.65,
-        "DailyChangePercent": -3.02,
-        "Date": "2025-06-12"
+        "ClosePrice": 72.54,
+        "DailyChangePercent": -0.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TECH",
@@ -814,9 +814,9 @@
         "Date added": "2021-08-30",
         "CIK": "0000842023",
         "Founded": "1976",
-        "ClosePrice": 51.54,
-        "DailyChangePercent": 0.27,
-        "Date": "2025-06-12"
+        "ClosePrice": 51.53,
+        "DailyChangePercent": -0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BIIB",
@@ -827,9 +827,9 @@
         "Date added": "2003-11-13",
         "CIK": "0000875045",
         "Founded": "1978",
-        "ClosePrice": 133.06,
-        "DailyChangePercent": -1.79,
-        "Date": "2025-06-12"
+        "ClosePrice": 132.31,
+        "DailyChangePercent": -0.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BLK",
@@ -840,9 +840,9 @@
         "Date added": "2011-04-04",
         "CIK": "0002012383",
         "Founded": "1988",
-        "ClosePrice": 993.3,
-        "DailyChangePercent": 0.14,
-        "Date": "2025-06-12"
+        "ClosePrice": 988.25,
+        "DailyChangePercent": -0.51,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BX",
@@ -853,9 +853,9 @@
         "Date added": "2023-09-18",
         "CIK": "0001393818",
         "Founded": "1985",
-        "ClosePrice": 141.39,
-        "DailyChangePercent": -1.1,
-        "Date": "2025-06-12"
+        "ClosePrice": 140.79,
+        "DailyChangePercent": -0.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BK",
@@ -866,9 +866,9 @@
         "Date added": "1995-03-31",
         "CIK": "0001390777",
         "Founded": "1784",
-        "ClosePrice": 89.56,
-        "DailyChangePercent": -0.49,
-        "Date": "2025-06-12"
+        "ClosePrice": 89.71,
+        "DailyChangePercent": 0.17,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BA",
@@ -879,9 +879,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000012927",
         "Founded": "1916",
-        "ClosePrice": 214.0,
-        "DailyChangePercent": -0.8,
-        "Date": "2025-06-12"
+        "ClosePrice": 203.75,
+        "DailyChangePercent": -4.79,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BKNG",
@@ -892,9 +892,9 @@
         "Date added": "2009-11-06",
         "CIK": "0001075531",
         "Founded": "1996",
-        "ClosePrice": 5466.28,
-        "DailyChangePercent": -0.4,
-        "Date": "2025-06-12"
+        "ClosePrice": 5461.95,
+        "DailyChangePercent": -0.08,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BSX",
@@ -905,9 +905,9 @@
         "Date added": "1995-02-24",
         "CIK": "0000885725",
         "Founded": "1979",
-        "ClosePrice": 99.4,
-        "DailyChangePercent": 0.06,
-        "Date": "2025-06-12"
+        "ClosePrice": 98.56,
+        "DailyChangePercent": -0.85,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BMY",
@@ -918,9 +918,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000014272",
         "Founded": "1989 (1887)",
-        "ClosePrice": 50.16,
-        "DailyChangePercent": 0.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 50.69,
+        "DailyChangePercent": 1.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "AVGO",
@@ -931,9 +931,9 @@
         "Date added": "2014-05-08",
         "CIK": "0001730168",
         "Founded": "1961",
-        "ClosePrice": 252.91,
-        "DailyChangePercent": 3.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 256.07,
+        "DailyChangePercent": 1.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BR",
@@ -944,9 +944,9 @@
         "Date added": "2018-06-18",
         "CIK": "0001383312",
         "Founded": "1962",
-        "ClosePrice": 241.18,
-        "DailyChangePercent": -0.75,
-        "Date": "2025-06-12"
+        "ClosePrice": 239.83,
+        "DailyChangePercent": -0.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BRO",
@@ -957,9 +957,9 @@
         "Date added": "2021-09-20",
         "CIK": "0000079282",
         "Founded": "1939",
-        "ClosePrice": 104.48,
-        "DailyChangePercent": -0.96,
-        "Date": "2025-06-12"
+        "ClosePrice": 106.8,
+        "DailyChangePercent": 2.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BF.B",
@@ -972,7 +972,7 @@
         "Founded": "1870",
         "ClosePrice": null,
         "DailyChangePercent": null,
-        "Date": "2025-06-12"
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BLDR",
@@ -983,9 +983,9 @@
         "Date added": "2023-12-18",
         "CIK": "0001316835",
         "Founded": "1998",
-        "ClosePrice": 114.36,
-        "DailyChangePercent": -2.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 115.05,
+        "DailyChangePercent": 0.6,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BG",
@@ -996,9 +996,9 @@
         "Date added": "2023-03-15",
         "CIK": "0001996862",
         "Founded": "1818",
-        "ClosePrice": 75.47,
-        "DailyChangePercent": -0.75,
-        "Date": "2025-06-12"
+        "ClosePrice": 77.03,
+        "DailyChangePercent": 2.07,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BXP",
@@ -1009,9 +1009,9 @@
         "Date added": "2006-04-03",
         "CIK": "0001037540",
         "Founded": "1970",
-        "ClosePrice": 72.98,
-        "DailyChangePercent": 0.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 73.48,
+        "DailyChangePercent": 0.69,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CHRW",
@@ -1022,9 +1022,9 @@
         "Date added": "2007-03-02",
         "CIK": "0001043277",
         "Founded": "1905",
-        "ClosePrice": 94.58,
-        "DailyChangePercent": -1.65,
-        "Date": "2025-06-12"
+        "ClosePrice": 95.0,
+        "DailyChangePercent": 0.44,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CDNS",
@@ -1035,9 +1035,9 @@
         "Date added": "2017-09-18",
         "CIK": "0000813672",
         "Founded": "1988",
-        "ClosePrice": 307.2,
-        "DailyChangePercent": 0.49,
-        "Date": "2025-06-12"
+        "ClosePrice": 307.85,
+        "DailyChangePercent": 0.21,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CZR",
@@ -1048,9 +1048,9 @@
         "Date added": "2021-03-22",
         "CIK": "0001590895",
         "Founded": "1973",
-        "ClosePrice": 27.9,
-        "DailyChangePercent": -1.29,
-        "Date": "2025-06-12"
+        "ClosePrice": 27.31,
+        "DailyChangePercent": -2.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CPT",
@@ -1061,9 +1061,9 @@
         "Date added": "2022-04-04",
         "CIK": "0000906345",
         "Founded": "1981",
-        "ClosePrice": 117.42,
-        "DailyChangePercent": -0.58,
-        "Date": "2025-06-12"
+        "ClosePrice": 118.49,
+        "DailyChangePercent": 0.91,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CPB",
@@ -1074,9 +1074,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000016732",
         "Founded": "1869",
-        "ClosePrice": 33.4,
-        "DailyChangePercent": -1.97,
-        "Date": "2025-06-12"
+        "ClosePrice": 33.32,
+        "DailyChangePercent": -0.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "COF",
@@ -1087,9 +1087,9 @@
         "Date added": "1998-07-01",
         "CIK": "0000927628",
         "Founded": "1994",
-        "ClosePrice": 200.53,
-        "DailyChangePercent": -0.23,
-        "Date": "2025-06-12"
+        "ClosePrice": 197.68,
+        "DailyChangePercent": -1.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CAH",
@@ -1100,9 +1100,9 @@
         "Date added": "1997-05-27",
         "CIK": "0000721371",
         "Founded": "1971",
-        "ClosePrice": 153.53,
-        "DailyChangePercent": 0.29,
-        "Date": "2025-06-12"
+        "ClosePrice": 160.52,
+        "DailyChangePercent": 4.55,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KMX",
@@ -1113,9 +1113,9 @@
         "Date added": "2010-06-28",
         "CIK": "0001170010",
         "Founded": "1993",
-        "ClosePrice": 67.83,
-        "DailyChangePercent": -0.96,
-        "Date": "2025-06-12"
+        "ClosePrice": 66.11,
+        "DailyChangePercent": -2.54,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CCL",
@@ -1126,9 +1126,9 @@
         "Date added": "1998-12-22",
         "CIK": "0000815097",
         "Founded": "1972",
-        "ClosePrice": 23.87,
-        "DailyChangePercent": -2.61,
-        "Date": "2025-06-12"
+        "ClosePrice": 23.57,
+        "DailyChangePercent": -1.26,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CARR",
@@ -1140,8 +1140,8 @@
         "CIK": "0001783180",
         "Founded": "2020 (1915, United Technologies spinoff)",
         "ClosePrice": 72.48,
-        "DailyChangePercent": 1.02,
-        "Date": "2025-06-12"
+        "DailyChangePercent": 0.0,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CAT",
@@ -1152,9 +1152,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000018230",
         "Founded": "1925",
-        "ClosePrice": 363.14,
-        "DailyChangePercent": 1.27,
-        "Date": "2025-06-12"
+        "ClosePrice": 360.96,
+        "DailyChangePercent": -0.6,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CBOE",
@@ -1165,9 +1165,9 @@
         "Date added": "2017-03-01",
         "CIK": "0001374310",
         "Founded": "1973",
-        "ClosePrice": 222.89,
-        "DailyChangePercent": 0.81,
-        "Date": "2025-06-12"
+        "ClosePrice": 226.3,
+        "DailyChangePercent": 1.53,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CBRE",
@@ -1178,9 +1178,9 @@
         "Date added": "2006-11-10",
         "CIK": "0001138118",
         "Founded": "1906",
-        "ClosePrice": 133.83,
-        "DailyChangePercent": 0.74,
-        "Date": "2025-06-12"
+        "ClosePrice": 135.52,
+        "DailyChangePercent": 1.26,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CDW",
@@ -1191,9 +1191,9 @@
         "Date added": "2019-09-23",
         "CIK": "0001402057",
         "Founded": "1984",
-        "ClosePrice": 175.75,
-        "DailyChangePercent": -1.67,
-        "Date": "2025-06-12"
+        "ClosePrice": 174.75,
+        "DailyChangePercent": -0.57,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "COR",
@@ -1204,9 +1204,9 @@
         "Date added": "2001-08-30",
         "CIK": "0001140859",
         "Founded": "1985",
-        "ClosePrice": 286.64,
-        "DailyChangePercent": 0.84,
-        "Date": "2025-06-12"
+        "ClosePrice": 295.04,
+        "DailyChangePercent": 2.93,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CNC",
@@ -1217,9 +1217,9 @@
         "Date added": "2016-03-30",
         "CIK": "0001071739",
         "Founded": "1984",
-        "ClosePrice": 55.27,
-        "DailyChangePercent": -0.43,
-        "Date": "2025-06-12"
+        "ClosePrice": 55.38,
+        "DailyChangePercent": 0.2,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CNP",
@@ -1230,9 +1230,9 @@
         "Date added": "1985-07-31",
         "CIK": "0001130310",
         "Founded": "1882",
-        "ClosePrice": 36.03,
-        "DailyChangePercent": -0.61,
-        "Date": "2025-06-12"
+        "ClosePrice": 36.41,
+        "DailyChangePercent": 1.05,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CF",
@@ -1243,9 +1243,9 @@
         "Date added": "2008-08-27",
         "CIK": "0001324404",
         "Founded": "1946",
-        "ClosePrice": 95.24,
-        "DailyChangePercent": 3.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 93.83,
+        "DailyChangePercent": -1.48,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CRL",
@@ -1256,9 +1256,9 @@
         "Date added": "2021-05-14",
         "CIK": "0001100682",
         "Founded": "1947",
-        "ClosePrice": 151.11,
-        "DailyChangePercent": 0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 151.89,
+        "DailyChangePercent": 0.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SCHW",
@@ -1269,9 +1269,9 @@
         "Date added": "1997-06-02",
         "CIK": "0000316709",
         "Founded": "1971",
-        "ClosePrice": 88.4,
-        "DailyChangePercent": 0.15,
-        "Date": "2025-06-12"
+        "ClosePrice": 88.5,
+        "DailyChangePercent": 0.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CHTR",
@@ -1282,9 +1282,9 @@
         "Date added": "2016-09-08",
         "CIK": "0001091667",
         "Founded": "1993",
-        "ClosePrice": 399.79,
-        "DailyChangePercent": -1.72,
-        "Date": "2025-06-12"
+        "ClosePrice": 396.9,
+        "DailyChangePercent": -0.72,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CVX",
@@ -1295,9 +1295,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000093410",
         "Founded": "1879",
-        "ClosePrice": 144.78,
-        "DailyChangePercent": 1.0,
-        "Date": "2025-06-12"
+        "ClosePrice": 144.97,
+        "DailyChangePercent": 0.13,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CMG",
@@ -1308,9 +1308,9 @@
         "Date added": "2011-04-28",
         "CIK": "0001058090",
         "Founded": "1993",
-        "ClosePrice": 51.79,
-        "DailyChangePercent": 2.31,
-        "Date": "2025-06-12"
+        "ClosePrice": 50.89,
+        "DailyChangePercent": -1.74,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CB",
@@ -1321,9 +1321,9 @@
         "Date added": "2010-07-15",
         "CIK": "0000896159",
         "Founded": "1985",
-        "ClosePrice": 285.61,
-        "DailyChangePercent": -0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 289.29,
+        "DailyChangePercent": 1.29,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CHD",
@@ -1334,9 +1334,9 @@
         "Date added": "2015-12-29",
         "CIK": "0000313927",
         "Founded": "1847",
-        "ClosePrice": 99.1,
-        "DailyChangePercent": -0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 99.08,
+        "DailyChangePercent": -0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CI",
@@ -1347,9 +1347,9 @@
         "Date added": "1976-06-30",
         "CIK": "0001739940",
         "Founded": "1982",
-        "ClosePrice": 310.2,
-        "DailyChangePercent": -1.09,
-        "Date": "2025-06-12"
+        "ClosePrice": 315.37,
+        "DailyChangePercent": 1.67,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CINF",
@@ -1360,9 +1360,9 @@
         "Date added": "1997-12-18",
         "CIK": "0000020286",
         "Founded": "1950",
-        "ClosePrice": 146.99,
-        "DailyChangePercent": -0.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 148.25,
+        "DailyChangePercent": 0.86,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CTAS",
@@ -1373,9 +1373,9 @@
         "Date added": "2001-03-01",
         "CIK": "0000723254",
         "Founded": "1929",
-        "ClosePrice": 221.72,
-        "DailyChangePercent": -0.23,
-        "Date": "2025-06-12"
+        "ClosePrice": 223.57,
+        "DailyChangePercent": 0.83,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CSCO",
@@ -1386,9 +1386,9 @@
         "Date added": "1993-12-01",
         "CIK": "0000858877",
         "Founded": "1984",
-        "ClosePrice": 64.19,
-        "DailyChangePercent": -1.47,
-        "Date": "2025-06-12"
+        "ClosePrice": 65.1,
+        "DailyChangePercent": 1.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "C",
@@ -1399,9 +1399,9 @@
         "Date added": "1988-05-31",
         "CIK": "0000831001",
         "Founded": "1998",
-        "ClosePrice": 78.38,
-        "DailyChangePercent": 0.45,
-        "Date": "2025-06-12"
+        "ClosePrice": 78.23,
+        "DailyChangePercent": -0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CFG",
@@ -1412,9 +1412,9 @@
         "Date added": "2016-01-29",
         "CIK": "0000759944",
         "Founded": "1828",
-        "ClosePrice": 41.4,
-        "DailyChangePercent": -1.36,
-        "Date": "2025-06-12"
+        "ClosePrice": 41.17,
+        "DailyChangePercent": -0.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CLX",
@@ -1425,9 +1425,9 @@
         "Date added": "1969-03-31",
         "CIK": "0000021076",
         "Founded": "1913",
-        "ClosePrice": 126.26,
-        "DailyChangePercent": -0.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 127.28,
+        "DailyChangePercent": 0.81,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CME",
@@ -1438,9 +1438,9 @@
         "Date added": "2006-08-11",
         "CIK": "0001156375",
         "Founded": "1848",
-        "ClosePrice": 269.65,
-        "DailyChangePercent": 1.33,
-        "Date": "2025-06-12"
+        "ClosePrice": 270.96,
+        "DailyChangePercent": 0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CMS",
@@ -1451,9 +1451,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000811156",
         "Founded": "1886",
-        "ClosePrice": 70.0,
-        "DailyChangePercent": -0.21,
-        "Date": "2025-06-12"
+        "ClosePrice": 70.81,
+        "DailyChangePercent": 1.16,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KO",
@@ -1464,9 +1464,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000021344",
         "Founded": "1886",
-        "ClosePrice": 72.07,
-        "DailyChangePercent": -0.39,
-        "Date": "2025-06-12"
+        "ClosePrice": 72.24,
+        "DailyChangePercent": 0.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CTSH",
@@ -1477,9 +1477,9 @@
         "Date added": "2006-11-17",
         "CIK": "0001058290",
         "Founded": "1994",
-        "ClosePrice": 80.65,
-        "DailyChangePercent": -0.49,
-        "Date": "2025-06-12"
+        "ClosePrice": 80.46,
+        "DailyChangePercent": -0.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "COIN",
@@ -1490,9 +1490,9 @@
         "Date added": "2025-05-19",
         "CIK": "0001679788",
         "Founded": "2012",
-        "ClosePrice": 250.68,
-        "DailyChangePercent": -1.67,
-        "Date": "2025-06-12"
+        "ClosePrice": 241.05,
+        "DailyChangePercent": -3.84,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CL",
@@ -1503,9 +1503,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000021665",
         "Founded": "1806",
-        "ClosePrice": 92.11,
-        "DailyChangePercent": 0.18,
-        "Date": "2025-06-12"
+        "ClosePrice": 93.14,
+        "DailyChangePercent": 1.12,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CMCSA",
@@ -1516,9 +1516,9 @@
         "Date added": "2002-11-19",
         "CIK": "0001166691",
         "Founded": "1963",
-        "ClosePrice": 35.18,
-        "DailyChangePercent": -1.24,
-        "Date": "2025-06-12"
+        "ClosePrice": 35.27,
+        "DailyChangePercent": 0.26,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CAG",
@@ -1529,9 +1529,9 @@
         "Date added": "1983-08-31",
         "CIK": "0000023217",
         "Founded": "1919",
-        "ClosePrice": 22.37,
-        "DailyChangePercent": -0.31,
-        "Date": "2025-06-12"
+        "ClosePrice": 22.28,
+        "DailyChangePercent": -0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "COP",
@@ -1542,9 +1542,9 @@
         "Date added": "1957-03-04",
         "CIK": "0001163165",
         "Founded": "2002",
-        "ClosePrice": 93.35,
-        "DailyChangePercent": 2.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 94.69,
+        "DailyChangePercent": 1.44,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ED",
@@ -1555,9 +1555,9 @@
         "Date added": "1957-03-04",
         "CIK": "0001047862",
         "Founded": "1823",
-        "ClosePrice": 102.55,
-        "DailyChangePercent": 0.15,
-        "Date": "2025-06-12"
+        "ClosePrice": 103.76,
+        "DailyChangePercent": 1.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "STZ",
@@ -1568,9 +1568,9 @@
         "Date added": "2005-07-01",
         "CIK": "0000016918",
         "Founded": "1945",
-        "ClosePrice": 169.04,
-        "DailyChangePercent": -1.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 169.81,
+        "DailyChangePercent": 0.46,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CEG",
@@ -1581,9 +1581,9 @@
         "Date added": "2022-02-02",
         "CIK": "0001868275",
         "Founded": "1999",
-        "ClosePrice": 292.19,
-        "DailyChangePercent": 0.4,
-        "Date": "2025-06-12"
+        "ClosePrice": 300.38,
+        "DailyChangePercent": 2.8,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "COO",
@@ -1594,9 +1594,9 @@
         "Date added": "2016-09-23",
         "CIK": "0000711404",
         "Founded": "1958",
-        "ClosePrice": 71.42,
-        "DailyChangePercent": -1.75,
-        "Date": "2025-06-12"
+        "ClosePrice": 70.88,
+        "DailyChangePercent": -0.76,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CPRT",
@@ -1607,9 +1607,9 @@
         "Date added": "2018-07-02",
         "CIK": "0000900075",
         "Founded": "1982",
-        "ClosePrice": 50.5,
-        "DailyChangePercent": 0.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 49.99,
+        "DailyChangePercent": -1.01,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GLW",
@@ -1620,9 +1620,9 @@
         "Date added": "1995-02-27",
         "CIK": "0000024741",
         "Founded": "1851",
-        "ClosePrice": 50.45,
-        "DailyChangePercent": -0.32,
-        "Date": "2025-06-12"
+        "ClosePrice": 50.82,
+        "DailyChangePercent": 0.73,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CPAY",
@@ -1633,9 +1633,9 @@
         "Date added": "2018-06-20",
         "CIK": "0001175454",
         "Founded": "2000",
-        "ClosePrice": 348.73,
-        "DailyChangePercent": -0.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 350.05,
+        "DailyChangePercent": 0.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CTVA",
@@ -1646,9 +1646,9 @@
         "Date added": "2019-06-03",
         "CIK": "0001755672",
         "Founded": "2019",
-        "ClosePrice": 72.07,
-        "DailyChangePercent": 0.73,
-        "Date": "2025-06-12"
+        "ClosePrice": 72.52,
+        "DailyChangePercent": 0.62,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CSGP",
@@ -1659,9 +1659,9 @@
         "Date added": "2022-09-19",
         "CIK": "0001057352",
         "Founded": "1987",
-        "ClosePrice": 81.79,
-        "DailyChangePercent": 0.89,
-        "Date": "2025-06-12"
+        "ClosePrice": 82.37,
+        "DailyChangePercent": 0.71,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "COST",
@@ -1672,9 +1672,9 @@
         "Date added": "1993-10-01",
         "CIK": "0000909832",
         "Founded": "1976",
-        "ClosePrice": 996.78,
-        "DailyChangePercent": -1.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 1002.71,
+        "DailyChangePercent": 0.59,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CTRA",
@@ -1685,9 +1685,9 @@
         "Date added": "2008-06-23",
         "CIK": "0000858470",
         "Founded": "2021 (1989)",
-        "ClosePrice": 25.78,
-        "DailyChangePercent": -0.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 26.14,
+        "DailyChangePercent": 1.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CRWD",
@@ -1698,9 +1698,9 @@
         "Date added": "2024-06-24",
         "CIK": "0001535527",
         "Founded": "2011",
-        "ClosePrice": 476.98,
-        "DailyChangePercent": 2.0,
-        "Date": "2025-06-12"
+        "ClosePrice": 481.73,
+        "DailyChangePercent": 1.0,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CCI",
@@ -1711,9 +1711,9 @@
         "Date added": "2012-03-14",
         "CIK": "0001051470",
         "Founded": "1994",
-        "ClosePrice": 99.43,
-        "DailyChangePercent": -0.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 100.03,
+        "DailyChangePercent": 0.6,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CSX",
@@ -1724,9 +1724,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000277948",
         "Founded": "1980",
-        "ClosePrice": 32.32,
-        "DailyChangePercent": -0.89,
-        "Date": "2025-06-12"
+        "ClosePrice": 32.39,
+        "DailyChangePercent": 0.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CMI",
@@ -1737,9 +1737,9 @@
         "Date added": "1965-03-31",
         "CIK": "0000026172",
         "Founded": "1919",
-        "ClosePrice": 323.58,
-        "DailyChangePercent": -1.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 324.74,
+        "DailyChangePercent": 0.36,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CVS",
@@ -1750,9 +1750,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000064803",
         "Founded": "1996",
-        "ClosePrice": 65.72,
-        "DailyChangePercent": 2.27,
-        "Date": "2025-06-12"
+        "ClosePrice": 66.35,
+        "DailyChangePercent": 0.96,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DHR",
@@ -1763,9 +1763,9 @@
         "Date added": "1998-11-18",
         "CIK": "0000313616",
         "Founded": "1969",
-        "ClosePrice": 204.72,
-        "DailyChangePercent": 1.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 205.1,
+        "DailyChangePercent": 0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DRI",
@@ -1776,9 +1776,9 @@
         "Date added": "1995-05-31",
         "CIK": "0000940944",
         "Founded": "1938",
-        "ClosePrice": 217.67,
-        "DailyChangePercent": 0.68,
-        "Date": "2025-06-12"
+        "ClosePrice": 217.81,
+        "DailyChangePercent": 0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DVA",
@@ -1789,9 +1789,9 @@
         "Date added": "2008-07-31",
         "CIK": "0000927066",
         "Founded": "1979",
-        "ClosePrice": 138.17,
-        "DailyChangePercent": -0.68,
-        "Date": "2025-06-12"
+        "ClosePrice": 137.35,
+        "DailyChangePercent": -0.59,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DAY",
@@ -1802,9 +1802,9 @@
         "Date added": "2021-09-20",
         "CIK": "0001725057",
         "Founded": "1992",
-        "ClosePrice": 60.65,
-        "DailyChangePercent": 1.24,
-        "Date": "2025-06-12"
+        "ClosePrice": 59.59,
+        "DailyChangePercent": -1.75,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DECK",
@@ -1815,9 +1815,9 @@
         "Date added": "2024-03-18",
         "CIK": "0000910521",
         "Founded": "1973",
-        "ClosePrice": 107.93,
-        "DailyChangePercent": -1.88,
-        "Date": "2025-06-12"
+        "ClosePrice": 107.7,
+        "DailyChangePercent": -0.21,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DE",
@@ -1828,9 +1828,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000315189",
         "Founded": "1837",
-        "ClosePrice": 520.84,
-        "DailyChangePercent": 0.97,
-        "Date": "2025-06-12"
+        "ClosePrice": 516.86,
+        "DailyChangePercent": -0.76,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DELL",
@@ -1841,9 +1841,9 @@
         "Date added": "2024-09-23",
         "CIK": "0001571996",
         "Founded": "2016",
-        "ClosePrice": 111.24,
-        "DailyChangePercent": -1.77,
-        "Date": "2025-06-12"
+        "ClosePrice": 113.4,
+        "DailyChangePercent": 1.94,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DAL",
@@ -1854,9 +1854,9 @@
         "Date added": "2013-09-11",
         "CIK": "0000027904",
         "Founded": "1929",
-        "ClosePrice": 49.17,
-        "DailyChangePercent": -4.86,
-        "Date": "2025-06-12"
+        "ClosePrice": 48.88,
+        "DailyChangePercent": -0.59,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DVN",
@@ -1867,9 +1867,9 @@
         "Date added": "2000-08-30",
         "CIK": "0001090012",
         "Founded": "1971",
-        "ClosePrice": 34.47,
-        "DailyChangePercent": 2.99,
-        "Date": "2025-06-12"
+        "ClosePrice": 34.33,
+        "DailyChangePercent": -0.41,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DXCM",
@@ -1880,9 +1880,9 @@
         "Date added": "2020-05-12",
         "CIK": "0001093557",
         "Founded": "1999",
-        "ClosePrice": 82.99,
-        "DailyChangePercent": -2.16,
-        "Date": "2025-06-12"
+        "ClosePrice": 82.85,
+        "DailyChangePercent": -0.17,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FANG",
@@ -1893,9 +1893,9 @@
         "Date added": "2018-12-03",
         "CIK": "0001539838",
         "Founded": "2007",
-        "ClosePrice": 148.92,
-        "DailyChangePercent": 2.3,
-        "Date": "2025-06-12"
+        "ClosePrice": 149.33,
+        "DailyChangePercent": 0.28,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DLR",
@@ -1906,9 +1906,9 @@
         "Date added": "2016-05-18",
         "CIK": "0001297996",
         "Founded": "2004",
-        "ClosePrice": 175.84,
-        "DailyChangePercent": -1.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 176.53,
+        "DailyChangePercent": 0.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DG",
@@ -1919,9 +1919,9 @@
         "Date added": "2012-12-03",
         "CIK": "0000029534",
         "Founded": "1939",
-        "ClosePrice": 111.45,
-        "DailyChangePercent": 0.19,
-        "Date": "2025-06-12"
+        "ClosePrice": 111.84,
+        "DailyChangePercent": 0.35,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DLTR",
@@ -1932,9 +1932,9 @@
         "Date added": "2011-12-19",
         "CIK": "0000935703",
         "Founded": "1986",
-        "ClosePrice": 94.21,
-        "DailyChangePercent": 1.17,
-        "Date": "2025-06-12"
+        "ClosePrice": 96.09,
+        "DailyChangePercent": 2.0,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "D",
@@ -1945,9 +1945,9 @@
         "Date added": "2016-11-30",
         "CIK": "0000715957",
         "Founded": "1983",
-        "ClosePrice": 55.57,
-        "DailyChangePercent": -0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 55.91,
+        "DailyChangePercent": 0.61,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DPZ",
@@ -1958,9 +1958,9 @@
         "Date added": "2020-05-12",
         "CIK": "0001286681",
         "Founded": "1960",
-        "ClosePrice": 446.9,
-        "DailyChangePercent": -1.89,
-        "Date": "2025-06-12"
+        "ClosePrice": 451.0,
+        "DailyChangePercent": 0.92,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DASH",
@@ -1971,9 +1971,9 @@
         "Date added": "2025-03-24",
         "CIK": "0001792789",
         "Founded": "2012",
-        "ClosePrice": 217.8,
-        "DailyChangePercent": 1.32,
-        "Date": "2025-06-12"
+        "ClosePrice": 216.6,
+        "DailyChangePercent": -0.55,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DOV",
@@ -1984,9 +1984,9 @@
         "Date added": "1985-10-31",
         "CIK": "0000029905",
         "Founded": "1955",
-        "ClosePrice": 179.14,
-        "DailyChangePercent": -1.18,
-        "Date": "2025-06-12"
+        "ClosePrice": 178.78,
+        "DailyChangePercent": -0.2,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DOW",
@@ -1997,9 +1997,9 @@
         "Date added": "2019-04-01",
         "CIK": "0001751788",
         "Founded": "2019 (1897)",
-        "ClosePrice": 30.68,
-        "DailyChangePercent": -0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 30.14,
+        "DailyChangePercent": -1.76,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DHI",
@@ -2010,9 +2010,9 @@
         "Date added": "2005-06-22",
         "CIK": "0000882184",
         "Founded": "1978",
-        "ClosePrice": 124.81,
-        "DailyChangePercent": -1.68,
-        "Date": "2025-06-12"
+        "ClosePrice": 126.24,
+        "DailyChangePercent": 1.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DTE",
@@ -2023,9 +2023,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000936340",
         "Founded": "1995",
-        "ClosePrice": 134.97,
-        "DailyChangePercent": 0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 136.03,
+        "DailyChangePercent": 0.79,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DUK",
@@ -2036,9 +2036,9 @@
         "Date added": "1976-06-30",
         "CIK": "0001326160",
         "Founded": "1904",
-        "ClosePrice": 116.35,
-        "DailyChangePercent": 0.02,
-        "Date": "2025-06-12"
+        "ClosePrice": 117.28,
+        "DailyChangePercent": 0.8,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DD",
@@ -2049,9 +2049,9 @@
         "Date added": "2019-06-03",
         "CIK": "0001666700",
         "Founded": "2017 (1802)",
-        "ClosePrice": 69.4,
-        "DailyChangePercent": -1.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 68.44,
+        "DailyChangePercent": -1.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EMN",
@@ -2062,9 +2062,9 @@
         "Date added": "1994-01-01",
         "CIK": "0000915389",
         "Founded": "1920",
-        "ClosePrice": 80.04,
-        "DailyChangePercent": -1.51,
-        "Date": "2025-06-12"
+        "ClosePrice": 78.95,
+        "DailyChangePercent": -1.36,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ETN",
@@ -2075,9 +2075,9 @@
         "Date added": "1957-03-04",
         "CIK": "0001551182",
         "Founded": "1911",
-        "ClosePrice": 325.71,
-        "DailyChangePercent": 0.45,
-        "Date": "2025-06-12"
+        "ClosePrice": 330.34,
+        "DailyChangePercent": 1.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EBAY",
@@ -2088,9 +2088,9 @@
         "Date added": "2002-07-22",
         "CIK": "0001065088",
         "Founded": "1995",
-        "ClosePrice": 77.88,
-        "DailyChangePercent": -1.13,
-        "Date": "2025-06-12"
+        "ClosePrice": 77.44,
+        "DailyChangePercent": -0.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ECL",
@@ -2101,9 +2101,9 @@
         "Date added": "1989-01-31",
         "CIK": "0000031462",
         "Founded": "1923",
-        "ClosePrice": 267.94,
-        "DailyChangePercent": -0.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 270.95,
+        "DailyChangePercent": 1.12,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EIX",
@@ -2114,9 +2114,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000827052",
         "Founded": "1886",
-        "ClosePrice": 49.61,
-        "DailyChangePercent": -1.65,
-        "Date": "2025-06-12"
+        "ClosePrice": 50.37,
+        "DailyChangePercent": 1.53,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EW",
@@ -2127,9 +2127,9 @@
         "Date added": "2011-04-01",
         "CIK": "0001099800",
         "Founded": "1958",
-        "ClosePrice": 75.47,
-        "DailyChangePercent": -0.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 75.89,
+        "DailyChangePercent": 0.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EA",
@@ -2140,9 +2140,9 @@
         "Date added": "2002-07-22",
         "CIK": "0000712515",
         "Founded": "1982",
-        "ClosePrice": 147.68,
-        "DailyChangePercent": 0.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 150.05,
+        "DailyChangePercent": 1.6,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ELV",
@@ -2153,9 +2153,9 @@
         "Date added": "2002-07-25",
         "CIK": "0001156039",
         "Founded": "2014 (1946)",
-        "ClosePrice": 380.93,
-        "DailyChangePercent": -0.78,
-        "Date": "2025-06-12"
+        "ClosePrice": 386.22,
+        "DailyChangePercent": 1.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EMR",
@@ -2166,9 +2166,9 @@
         "Date added": "1965-03-31",
         "CIK": "0000032604",
         "Founded": "1890",
-        "ClosePrice": 126.49,
-        "DailyChangePercent": -0.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 126.72,
+        "DailyChangePercent": 0.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ENPH",
@@ -2179,9 +2179,9 @@
         "Date added": "2021-01-07",
         "CIK": "0001463101",
         "Founded": "2006",
-        "ClosePrice": 45.28,
-        "DailyChangePercent": 0.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 44.69,
+        "DailyChangePercent": -1.29,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ETR",
@@ -2192,9 +2192,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000065984",
         "Founded": "1913",
-        "ClosePrice": 82.15,
-        "DailyChangePercent": -0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 83.29,
+        "DailyChangePercent": 1.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EOG",
@@ -2205,9 +2205,9 @@
         "Date added": "2000-11-02",
         "CIK": "0000821189",
         "Founded": "1999",
-        "ClosePrice": 119.92,
-        "DailyChangePercent": 1.73,
-        "Date": "2025-06-12"
+        "ClosePrice": 120.59,
+        "DailyChangePercent": 0.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EPAM",
@@ -2218,9 +2218,9 @@
         "Date added": "2021-12-14",
         "CIK": "0001352010",
         "Founded": "1993",
-        "ClosePrice": 176.58,
-        "DailyChangePercent": -2.31,
-        "Date": "2025-06-12"
+        "ClosePrice": 175.84,
+        "DailyChangePercent": -0.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EQT",
@@ -2231,9 +2231,9 @@
         "Date added": "2022-10-03",
         "CIK": "0000033213",
         "Founded": "1888",
-        "ClosePrice": 53.97,
-        "DailyChangePercent": 0.45,
-        "Date": "2025-06-12"
+        "ClosePrice": 55.52,
+        "DailyChangePercent": 2.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EFX",
@@ -2244,9 +2244,9 @@
         "Date added": "1997-06-19",
         "CIK": "0000033185",
         "Founded": "1899",
-        "ClosePrice": 271.5,
-        "DailyChangePercent": -0.15,
-        "Date": "2025-06-12"
+        "ClosePrice": 268.97,
+        "DailyChangePercent": -0.93,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EQIX",
@@ -2257,9 +2257,9 @@
         "Date added": "2015-03-20",
         "CIK": "0001101239",
         "Founded": "1998",
-        "ClosePrice": 893.7,
-        "DailyChangePercent": -1.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 896.42,
+        "DailyChangePercent": 0.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EQR",
@@ -2270,9 +2270,9 @@
         "Date added": "2001-12-03",
         "CIK": "0000906107",
         "Founded": "1969",
-        "ClosePrice": 69.27,
-        "DailyChangePercent": -1.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 70.17,
+        "DailyChangePercent": 1.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ERIE",
@@ -2283,9 +2283,9 @@
         "Date added": "2024-09-23",
         "CIK": "0000922621",
         "Founded": "1925",
-        "ClosePrice": 356.75,
-        "DailyChangePercent": -0.98,
-        "Date": "2025-06-12"
+        "ClosePrice": 358.76,
+        "DailyChangePercent": 0.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ESS",
@@ -2296,9 +2296,9 @@
         "Date added": "2014-04-02",
         "CIK": "0000920522",
         "Founded": "1971",
-        "ClosePrice": 286.19,
-        "DailyChangePercent": -0.58,
-        "Date": "2025-06-12"
+        "ClosePrice": 289.75,
+        "DailyChangePercent": 1.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EL",
@@ -2309,9 +2309,9 @@
         "Date added": "2006-01-05",
         "CIK": "0001001250",
         "Founded": "1946",
-        "ClosePrice": 69.86,
-        "DailyChangePercent": -0.85,
-        "Date": "2025-06-12"
+        "ClosePrice": 69.99,
+        "DailyChangePercent": 0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EG",
@@ -2322,9 +2322,9 @@
         "Date added": "2017-06-19",
         "CIK": "0001095073",
         "Founded": "1973",
-        "ClosePrice": 335.3,
-        "DailyChangePercent": -0.29,
-        "Date": "2025-06-12"
+        "ClosePrice": 339.82,
+        "DailyChangePercent": 1.35,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EVRG",
@@ -2335,9 +2335,9 @@
         "Date added": "2018-06-05",
         "CIK": "0001711269",
         "Founded": "1909",
-        "ClosePrice": 67.51,
-        "DailyChangePercent": -0.66,
-        "Date": "2025-06-12"
+        "ClosePrice": 67.93,
+        "DailyChangePercent": 0.62,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ES",
@@ -2348,9 +2348,9 @@
         "Date added": "2009-07-24",
         "CIK": "0000072741",
         "Founded": "1966",
-        "ClosePrice": 65.55,
-        "DailyChangePercent": -0.52,
-        "Date": "2025-06-12"
+        "ClosePrice": 65.8,
+        "DailyChangePercent": 0.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EXC",
@@ -2361,9 +2361,9 @@
         "Date added": "1957-03-04",
         "CIK": "0001109357",
         "Founded": "2000",
-        "ClosePrice": 42.88,
-        "DailyChangePercent": -0.09,
-        "Date": "2025-06-12"
+        "ClosePrice": 43.64,
+        "DailyChangePercent": 1.77,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EXE",
@@ -2374,9 +2374,9 @@
         "Date added": "2025-03-24",
         "CIK": "0000895126",
         "Founded": "1989",
-        "ClosePrice": 112.23,
-        "DailyChangePercent": -0.3,
-        "Date": "2025-06-12"
+        "ClosePrice": 114.96,
+        "DailyChangePercent": 2.43,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EXPE",
@@ -2387,9 +2387,9 @@
         "Date added": "2007-10-02",
         "CIK": "0001324424",
         "Founded": "1996",
-        "ClosePrice": 173.32,
-        "DailyChangePercent": -0.43,
-        "Date": "2025-06-12"
+        "ClosePrice": 171.7,
+        "DailyChangePercent": -0.93,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EXPD",
@@ -2400,9 +2400,9 @@
         "Date added": "2007-10-10",
         "CIK": "0000746515",
         "Founded": "1979",
-        "ClosePrice": 114.45,
-        "DailyChangePercent": -0.42,
-        "Date": "2025-06-12"
+        "ClosePrice": 114.58,
+        "DailyChangePercent": 0.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "EXR",
@@ -2413,9 +2413,9 @@
         "Date added": "2016-01-19",
         "CIK": "0001289490",
         "Founded": "1977",
-        "ClosePrice": 150.27,
-        "DailyChangePercent": -0.89,
-        "Date": "2025-06-12"
+        "ClosePrice": 150.51,
+        "DailyChangePercent": 0.16,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "XOM",
@@ -2426,9 +2426,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000034088",
         "Founded": "1999",
-        "ClosePrice": 109.31,
-        "DailyChangePercent": 1.95,
-        "Date": "2025-06-12"
+        "ClosePrice": 109.73,
+        "DailyChangePercent": 0.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FFIV",
@@ -2439,9 +2439,9 @@
         "Date added": "2010-12-20",
         "CIK": "0001048695",
         "Founded": "1996",
-        "ClosePrice": 292.89,
-        "DailyChangePercent": -0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 291.66,
+        "DailyChangePercent": -0.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FDS",
@@ -2452,9 +2452,9 @@
         "Date added": "2021-12-20",
         "CIK": "0001013237",
         "Founded": "1978",
-        "ClosePrice": 423.38,
-        "DailyChangePercent": -0.52,
-        "Date": "2025-06-12"
+        "ClosePrice": 424.17,
+        "DailyChangePercent": 0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FICO",
@@ -2465,9 +2465,9 @@
         "Date added": "2023-03-20",
         "CIK": "0000814547",
         "Founded": "1956",
-        "ClosePrice": 1805.0,
-        "DailyChangePercent": 1.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 1784.37,
+        "DailyChangePercent": -1.14,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FAST",
@@ -2478,9 +2478,9 @@
         "Date added": "2008-09-15",
         "CIK": "0000815556",
         "Founded": "1967",
-        "ClosePrice": 42.65,
-        "DailyChangePercent": -0.16,
-        "Date": "2025-06-12"
+        "ClosePrice": 42.86,
+        "DailyChangePercent": 0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FRT",
@@ -2491,9 +2491,9 @@
         "Date added": "2016-02-01",
         "CIK": "0000034903",
         "Founded": "1962",
-        "ClosePrice": 96.46,
-        "DailyChangePercent": -1.41,
-        "Date": "2025-06-12"
+        "ClosePrice": 96.64,
+        "DailyChangePercent": 0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FDX",
@@ -2504,9 +2504,9 @@
         "Date added": "1980-12-31",
         "CIK": "0001048911",
         "Founded": "1971",
-        "ClosePrice": 224.0,
-        "DailyChangePercent": -1.74,
-        "Date": "2025-06-12"
+        "ClosePrice": 225.0,
+        "DailyChangePercent": 0.45,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FIS",
@@ -2517,9 +2517,9 @@
         "Date added": "2006-11-10",
         "CIK": "0001136893",
         "Founded": "1968",
-        "ClosePrice": 81.06,
-        "DailyChangePercent": -0.05,
-        "Date": "2025-06-12"
+        "ClosePrice": 80.82,
+        "DailyChangePercent": -0.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FITB",
@@ -2530,9 +2530,9 @@
         "Date added": "1996-03-29",
         "CIK": "0000035527",
         "Founded": "1858",
-        "ClosePrice": 39.14,
-        "DailyChangePercent": -1.61,
-        "Date": "2025-06-12"
+        "ClosePrice": 38.98,
+        "DailyChangePercent": -0.41,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FSLR",
@@ -2543,9 +2543,9 @@
         "Date added": "2022-12-19",
         "CIK": "0001274494",
         "Founded": "1999",
-        "ClosePrice": 167.86,
-        "DailyChangePercent": 1.97,
-        "Date": "2025-06-12"
+        "ClosePrice": 167.83,
+        "DailyChangePercent": -0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FE",
@@ -2556,9 +2556,9 @@
         "Date added": "1997-11-28",
         "CIK": "0001031296",
         "Founded": "1997",
-        "ClosePrice": 40.21,
-        "DailyChangePercent": 0.25,
-        "Date": "2025-06-12"
+        "ClosePrice": 40.67,
+        "DailyChangePercent": 1.14,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FI",
@@ -2569,9 +2569,9 @@
         "Date added": "2001-04-02",
         "CIK": "0000798354",
         "Founded": "1984",
-        "ClosePrice": 168.07,
-        "DailyChangePercent": -0.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 168.02,
+        "DailyChangePercent": -0.03,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "F",
@@ -2582,9 +2582,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000037996",
         "Founded": "1903",
-        "ClosePrice": 10.66,
-        "DailyChangePercent": 0.57,
-        "Date": "2025-06-12"
+        "ClosePrice": 10.53,
+        "DailyChangePercent": -1.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FTNT",
@@ -2595,9 +2595,9 @@
         "Date added": "2018-10-11",
         "CIK": "0001262039",
         "Founded": "2000",
-        "ClosePrice": 102.02,
-        "DailyChangePercent": 0.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 101.66,
+        "DailyChangePercent": -0.35,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FTV",
@@ -2608,9 +2608,9 @@
         "Date added": "2016-07-01",
         "CIK": "0001659166",
         "Founded": "2016",
-        "ClosePrice": 71.3,
-        "DailyChangePercent": -1.87,
-        "Date": "2025-06-12"
+        "ClosePrice": 70.94,
+        "DailyChangePercent": -0.5,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FOXA",
@@ -2621,9 +2621,9 @@
         "Date added": "2019-03-19",
         "CIK": "0001754301",
         "Founded": "2019",
-        "ClosePrice": 54.66,
-        "DailyChangePercent": -0.13,
-        "Date": "2025-06-12"
+        "ClosePrice": 53.82,
+        "DailyChangePercent": -1.54,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FOX",
@@ -2634,9 +2634,9 @@
         "Date added": "2019-03-19",
         "CIK": "0001754301",
         "Founded": "2019",
-        "ClosePrice": 50.12,
-        "DailyChangePercent": -0.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 49.48,
+        "DailyChangePercent": -1.28,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "BEN",
@@ -2647,9 +2647,9 @@
         "Date added": "1998-04-30",
         "CIK": "0000038777",
         "Founded": "1947",
-        "ClosePrice": 22.54,
-        "DailyChangePercent": 3.11,
-        "Date": "2025-06-12"
+        "ClosePrice": 22.6,
+        "DailyChangePercent": 0.27,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "FCX",
@@ -2660,9 +2660,9 @@
         "Date added": "2011-07-01",
         "CIK": "0000831259",
         "Founded": "1912",
-        "ClosePrice": 41.01,
-        "DailyChangePercent": -2.8,
-        "Date": "2025-06-12"
+        "ClosePrice": 41.18,
+        "DailyChangePercent": 0.41,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GRMN",
@@ -2673,9 +2673,9 @@
         "Date added": "2012-12-12",
         "CIK": "0001121788",
         "Founded": "1989",
-        "ClosePrice": 209.13,
-        "DailyChangePercent": -0.47,
-        "Date": "2025-06-12"
+        "ClosePrice": 208.39,
+        "DailyChangePercent": -0.35,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IT",
@@ -2686,9 +2686,9 @@
         "Date added": "2017-04-05",
         "CIK": "0000749251",
         "Founded": "1979",
-        "ClosePrice": 413.5,
-        "DailyChangePercent": -2.13,
-        "Date": "2025-06-12"
+        "ClosePrice": 413.59,
+        "DailyChangePercent": 0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GE",
@@ -2699,9 +2699,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000040545",
         "Founded": "1892",
-        "ClosePrice": 245.52,
-        "DailyChangePercent": 1.45,
-        "Date": "2025-06-12"
+        "ClosePrice": 239.99,
+        "DailyChangePercent": -2.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GEHC",
@@ -2712,9 +2712,9 @@
         "Date added": "2023-01-04",
         "CIK": "0001932393",
         "Founded": "1994",
-        "ClosePrice": 73.4,
-        "DailyChangePercent": -0.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 73.11,
+        "DailyChangePercent": -0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GEV",
@@ -2725,9 +2725,9 @@
         "Date added": "2024-04-02",
         "CIK": "0001996810",
         "Founded": "2024",
-        "ClosePrice": 483.47,
-        "DailyChangePercent": 3.9,
-        "Date": "2025-06-12"
+        "ClosePrice": 487.67,
+        "DailyChangePercent": 0.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GEN",
@@ -2738,9 +2738,9 @@
         "Date added": "2003-03-25",
         "CIK": "0000849399",
         "Founded": "1982",
-        "ClosePrice": 29.44,
-        "DailyChangePercent": -0.3,
-        "Date": "2025-06-12"
+        "ClosePrice": 30.27,
+        "DailyChangePercent": 2.82,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GNRC",
@@ -2751,9 +2751,9 @@
         "Date added": "2021-03-22",
         "CIK": "0001474735",
         "Founded": "1959",
-        "ClosePrice": 129.78,
-        "DailyChangePercent": -0.79,
-        "Date": "2025-06-12"
+        "ClosePrice": 128.39,
+        "DailyChangePercent": -1.07,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GD",
@@ -2764,9 +2764,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000040533",
         "Founded": "1899",
-        "ClosePrice": 275.83,
-        "DailyChangePercent": -0.56,
-        "Date": "2025-06-12"
+        "ClosePrice": 279.93,
+        "DailyChangePercent": 1.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GIS",
@@ -2777,9 +2777,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000040704",
         "Founded": "1856",
-        "ClosePrice": 54.23,
-        "DailyChangePercent": -0.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 54.74,
+        "DailyChangePercent": 0.94,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GM",
@@ -2790,9 +2790,9 @@
         "Date added": "2013-06-06",
         "CIK": "0001467858",
         "Founded": "1908",
-        "ClosePrice": 49.87,
-        "DailyChangePercent": 1.92,
-        "Date": "2025-06-12"
+        "ClosePrice": 49.26,
+        "DailyChangePercent": -1.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GPC",
@@ -2803,9 +2803,9 @@
         "Date added": "1973-12-31",
         "CIK": "0000040987",
         "Founded": "1925",
-        "ClosePrice": 123.3,
-        "DailyChangePercent": -2.56,
-        "Date": "2025-06-12"
+        "ClosePrice": 122.13,
+        "DailyChangePercent": -0.95,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GILD",
@@ -2816,9 +2816,9 @@
         "Date added": "2004-07-01",
         "CIK": "0000882095",
         "Founded": "1987",
-        "ClosePrice": 109.3,
-        "DailyChangePercent": -0.72,
-        "Date": "2025-06-12"
+        "ClosePrice": 112.05,
+        "DailyChangePercent": 2.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GPN",
@@ -2829,9 +2829,9 @@
         "Date added": "2016-04-25",
         "CIK": "0001123360",
         "Founded": "2000",
-        "ClosePrice": 79.63,
-        "DailyChangePercent": -1.36,
-        "Date": "2025-06-12"
+        "ClosePrice": 78.28,
+        "DailyChangePercent": -1.7,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GL",
@@ -2842,9 +2842,9 @@
         "Date added": "1989-04-30",
         "CIK": "0000320335",
         "Founded": "1900",
-        "ClosePrice": 119.78,
-        "DailyChangePercent": -0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 120.77,
+        "DailyChangePercent": 0.83,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GDDY",
@@ -2855,9 +2855,9 @@
         "Date added": "2024-06-24",
         "CIK": "0001609711",
         "Founded": "1997",
-        "ClosePrice": 176.91,
-        "DailyChangePercent": -0.85,
-        "Date": "2025-06-12"
+        "ClosePrice": 177.77,
+        "DailyChangePercent": 0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GS",
@@ -2868,9 +2868,9 @@
         "Date added": "2002-07-22",
         "CIK": "0000886982",
         "Founded": "1869",
-        "ClosePrice": 624.17,
-        "DailyChangePercent": 1.51,
-        "Date": "2025-06-12"
+        "ClosePrice": 625.11,
+        "DailyChangePercent": 0.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HAL",
@@ -2881,9 +2881,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000045012",
         "Founded": "1919",
-        "ClosePrice": 22.19,
-        "DailyChangePercent": 2.02,
-        "Date": "2025-06-12"
+        "ClosePrice": 21.98,
+        "DailyChangePercent": -0.95,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HIG",
@@ -2894,9 +2894,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000874766",
         "Founded": "1810",
-        "ClosePrice": 124.37,
-        "DailyChangePercent": -0.42,
-        "Date": "2025-06-12"
+        "ClosePrice": 126.26,
+        "DailyChangePercent": 1.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HAS",
@@ -2907,9 +2907,9 @@
         "Date added": "1984-09-30",
         "CIK": "0000046080",
         "Founded": "1923",
-        "ClosePrice": 69.04,
-        "DailyChangePercent": 0.28,
-        "Date": "2025-06-12"
+        "ClosePrice": 69.5,
+        "DailyChangePercent": 0.67,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HCA",
@@ -2920,9 +2920,9 @@
         "Date added": "2015-01-27",
         "CIK": "0000860730",
         "Founded": "1968",
-        "ClosePrice": 367.59,
-        "DailyChangePercent": 0.73,
-        "Date": "2025-06-12"
+        "ClosePrice": 371.67,
+        "DailyChangePercent": 1.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DOC",
@@ -2933,9 +2933,9 @@
         "Date added": "2008-03-31",
         "CIK": "0000765880",
         "Founded": "1985",
-        "ClosePrice": 17.51,
-        "DailyChangePercent": -0.51,
-        "Date": "2025-06-12"
+        "ClosePrice": 17.5,
+        "DailyChangePercent": -0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HSIC",
@@ -2946,9 +2946,9 @@
         "Date added": "2015-03-17",
         "CIK": "0001000228",
         "Founded": "1932",
-        "ClosePrice": 71.14,
-        "DailyChangePercent": -0.32,
-        "Date": "2025-06-12"
+        "ClosePrice": 71.08,
+        "DailyChangePercent": -0.08,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HSY",
@@ -2959,9 +2959,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000047111",
         "Founded": "1894",
-        "ClosePrice": 168.05,
-        "DailyChangePercent": -0.29,
-        "Date": "2025-06-12"
+        "ClosePrice": 172.12,
+        "DailyChangePercent": 2.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HES",
@@ -2972,9 +2972,9 @@
         "Date added": "1984-05-31",
         "CIK": "0000004447",
         "Founded": "1919",
-        "ClosePrice": 140.58,
-        "DailyChangePercent": 1.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 141.14,
+        "DailyChangePercent": 0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HPE",
@@ -2985,9 +2985,9 @@
         "Date added": "2015-11-02",
         "CIK": "0001645590",
         "Founded": "2015",
-        "ClosePrice": 18.22,
-        "DailyChangePercent": -0.65,
-        "Date": "2025-06-12"
+        "ClosePrice": 18.13,
+        "DailyChangePercent": -0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HLT",
@@ -2998,9 +2998,9 @@
         "Date added": "2017-06-19",
         "CIK": "0001585689",
         "Founded": "1919",
-        "ClosePrice": 253.54,
-        "DailyChangePercent": 0.0,
-        "Date": "2025-06-12"
+        "ClosePrice": 250.55,
+        "DailyChangePercent": -1.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HOLX",
@@ -3011,9 +3011,9 @@
         "Date added": "2016-03-30",
         "CIK": "0000859737",
         "Founded": "1985",
-        "ClosePrice": 64.58,
-        "DailyChangePercent": -0.86,
-        "Date": "2025-06-12"
+        "ClosePrice": 65.22,
+        "DailyChangePercent": 0.99,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HD",
@@ -3024,9 +3024,9 @@
         "Date added": "1988-03-31",
         "CIK": "0000354950",
         "Founded": "1978",
-        "ClosePrice": 360.46,
-        "DailyChangePercent": -2.02,
-        "Date": "2025-06-12"
+        "ClosePrice": 363.16,
+        "DailyChangePercent": 0.75,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HON",
@@ -3037,9 +3037,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000773840",
         "Founded": "1906",
-        "ClosePrice": 225.82,
-        "DailyChangePercent": -0.19,
-        "Date": "2025-06-12"
+        "ClosePrice": 226.05,
+        "DailyChangePercent": 0.1,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HRL",
@@ -3050,9 +3050,9 @@
         "Date added": "2009-03-04",
         "CIK": "0000048465",
         "Founded": "1891",
-        "ClosePrice": 30.93,
-        "DailyChangePercent": -0.71,
-        "Date": "2025-06-12"
+        "ClosePrice": 31.05,
+        "DailyChangePercent": 0.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HST",
@@ -3063,9 +3063,9 @@
         "Date added": "2007-03-20",
         "CIK": "0001070750",
         "Founded": "1993",
-        "ClosePrice": 15.97,
-        "DailyChangePercent": -0.62,
-        "Date": "2025-06-12"
+        "ClosePrice": 15.69,
+        "DailyChangePercent": -1.75,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HWM",
@@ -3076,9 +3076,9 @@
         "Date added": "2016-10-21",
         "CIK": "0000004281",
         "Founded": "1888",
-        "ClosePrice": 170.74,
-        "DailyChangePercent": 1.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 171.52,
+        "DailyChangePercent": 0.46,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HPQ",
@@ -3089,9 +3089,9 @@
         "Date added": "1974-12-31",
         "CIK": "0000047217",
         "Founded": "1939 (2015)",
-        "ClosePrice": 24.82,
-        "DailyChangePercent": -2.9,
-        "Date": "2025-06-12"
+        "ClosePrice": 24.74,
+        "DailyChangePercent": -0.32,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HUBB",
@@ -3102,9 +3102,9 @@
         "Date added": "2023-10-18",
         "CIK": "0000048898",
         "Founded": "1888",
-        "ClosePrice": 388.99,
-        "DailyChangePercent": 0.23,
-        "Date": "2025-06-12"
+        "ClosePrice": 391.04,
+        "DailyChangePercent": 0.53,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HUM",
@@ -3115,9 +3115,9 @@
         "Date added": "2012-12-10",
         "CIK": "0000049071",
         "Founded": "1961",
-        "ClosePrice": 231.74,
-        "DailyChangePercent": -0.1,
-        "Date": "2025-06-12"
+        "ClosePrice": 234.96,
+        "DailyChangePercent": 1.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HBAN",
@@ -3128,9 +3128,9 @@
         "Date added": "1997-08-28",
         "CIK": "0000049196",
         "Founded": "1866",
-        "ClosePrice": 16.09,
-        "DailyChangePercent": -1.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 15.96,
+        "DailyChangePercent": -0.81,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "HII",
@@ -3141,9 +3141,9 @@
         "Date added": "2018-01-03",
         "CIK": "0001501585",
         "Founded": "2011",
-        "ClosePrice": 226.15,
-        "DailyChangePercent": 1.28,
-        "Date": "2025-06-12"
+        "ClosePrice": 229.12,
+        "DailyChangePercent": 1.31,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IBM",
@@ -3154,9 +3154,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000051143",
         "Founded": "1911",
-        "ClosePrice": 281.52,
-        "DailyChangePercent": 1.91,
-        "Date": "2025-06-12"
+        "ClosePrice": 281.03,
+        "DailyChangePercent": -0.17,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IEX",
@@ -3167,9 +3167,9 @@
         "Date added": "2019-08-09",
         "CIK": "0000832101",
         "Founded": "1988",
-        "ClosePrice": 183.17,
-        "DailyChangePercent": -0.59,
-        "Date": "2025-06-12"
+        "ClosePrice": 182.51,
+        "DailyChangePercent": -0.36,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IDXX",
@@ -3180,9 +3180,9 @@
         "Date added": "2017-01-05",
         "CIK": "0000874716",
         "Founded": "1983",
-        "ClosePrice": 524.18,
-        "DailyChangePercent": -0.33,
-        "Date": "2025-06-12"
+        "ClosePrice": 526.92,
+        "DailyChangePercent": 0.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ITW",
@@ -3193,9 +3193,9 @@
         "Date added": "1986-02-28",
         "CIK": "0000049826",
         "Founded": "1912",
-        "ClosePrice": 246.62,
-        "DailyChangePercent": -0.96,
-        "Date": "2025-06-12"
+        "ClosePrice": 246.01,
+        "DailyChangePercent": -0.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "INCY",
@@ -3206,9 +3206,9 @@
         "Date added": "2017-02-28",
         "CIK": "0000879169",
         "Founded": "1991",
-        "ClosePrice": 68.85,
-        "DailyChangePercent": -1.74,
-        "Date": "2025-06-12"
+        "ClosePrice": 69.22,
+        "DailyChangePercent": 0.54,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IR",
@@ -3219,9 +3219,9 @@
         "Date added": "2020-03-03",
         "CIK": "0001699150",
         "Founded": "1859",
-        "ClosePrice": 83.2,
-        "DailyChangePercent": -1.77,
-        "Date": "2025-06-12"
+        "ClosePrice": 82.52,
+        "DailyChangePercent": -0.82,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PODD",
@@ -3232,9 +3232,9 @@
         "Date added": "2023-03-15",
         "CIK": "0001145197",
         "Founded": "2000",
-        "ClosePrice": 302.24,
-        "DailyChangePercent": 1.17,
-        "Date": "2025-06-12"
+        "ClosePrice": 303.62,
+        "DailyChangePercent": 0.46,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "INTC",
@@ -3245,9 +3245,9 @@
         "Date added": "1976-12-31",
         "CIK": "0000050863",
         "Founded": "1968",
-        "ClosePrice": 20.68,
-        "DailyChangePercent": -6.34,
-        "Date": "2025-06-12"
+        "ClosePrice": 20.77,
+        "DailyChangePercent": 0.44,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ICE",
@@ -3258,9 +3258,9 @@
         "Date added": "2007-09-26",
         "CIK": "0001571949",
         "Founded": "2000",
-        "ClosePrice": 177.5,
-        "DailyChangePercent": 1.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 179.08,
+        "DailyChangePercent": 0.89,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IFF",
@@ -3271,9 +3271,9 @@
         "Date added": "1976-03-31",
         "CIK": "0000051253",
         "Founded": "1958 (1889)",
-        "ClosePrice": 78.33,
-        "DailyChangePercent": -1.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 78.37,
+        "DailyChangePercent": 0.05,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IP",
@@ -3284,9 +3284,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000051434",
         "Founded": "1898",
-        "ClosePrice": 47.08,
-        "DailyChangePercent": -1.13,
-        "Date": "2025-06-12"
+        "ClosePrice": 47.15,
+        "DailyChangePercent": 0.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IPG",
@@ -3297,9 +3297,9 @@
         "Date added": "1992-10-01",
         "CIK": "0000051644",
         "Founded": "1961 (1930)",
-        "ClosePrice": 23.76,
-        "DailyChangePercent": -0.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 23.64,
+        "DailyChangePercent": -0.51,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "INTU",
@@ -3310,9 +3310,9 @@
         "Date added": "2000-12-05",
         "CIK": "0000896878",
         "Founded": "1983",
-        "ClosePrice": 764.75,
-        "DailyChangePercent": 0.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 766.21,
+        "DailyChangePercent": 0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ISRG",
@@ -3323,9 +3323,9 @@
         "Date added": "2008-06-02",
         "CIK": "0001035267",
         "Founded": "1995",
-        "ClosePrice": 522.41,
-        "DailyChangePercent": -1.36,
-        "Date": "2025-06-12"
+        "ClosePrice": 513.0,
+        "DailyChangePercent": -1.8,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IVZ",
@@ -3336,9 +3336,9 @@
         "Date added": "2008-08-21",
         "CIK": "0000914208",
         "Founded": "1935",
-        "ClosePrice": 15.07,
-        "DailyChangePercent": 1.76,
-        "Date": "2025-06-12"
+        "ClosePrice": 14.95,
+        "DailyChangePercent": -0.8,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "INVH",
@@ -3349,9 +3349,9 @@
         "Date added": "2022-09-19",
         "CIK": "0001687229",
         "Founded": "2012",
-        "ClosePrice": 33.32,
-        "DailyChangePercent": -0.89,
-        "Date": "2025-06-12"
+        "ClosePrice": 33.73,
+        "DailyChangePercent": 1.23,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IQV",
@@ -3362,9 +3362,9 @@
         "Date added": "2017-08-29",
         "CIK": "0001478242",
         "Founded": "1982",
-        "ClosePrice": 158.83,
-        "DailyChangePercent": -0.59,
-        "Date": "2025-06-12"
+        "ClosePrice": 159.13,
+        "DailyChangePercent": 0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "IRM",
@@ -3375,9 +3375,9 @@
         "Date added": "2009-01-06",
         "CIK": "0001020569",
         "Founded": "1951",
-        "ClosePrice": 100.98,
-        "DailyChangePercent": -0.08,
-        "Date": "2025-06-12"
+        "ClosePrice": 102.51,
+        "DailyChangePercent": 1.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "JBHT",
@@ -3388,9 +3388,9 @@
         "Date added": "2015-07-01",
         "CIK": "0000728535",
         "Founded": "1961",
-        "ClosePrice": 140.9,
-        "DailyChangePercent": -2.95,
-        "Date": "2025-06-12"
+        "ClosePrice": 140.92,
+        "DailyChangePercent": 0.01,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "JBL",
@@ -3401,9 +3401,9 @@
         "Date added": "2023-12-18",
         "CIK": "0000898293",
         "Founded": "1966",
-        "ClosePrice": 178.43,
-        "DailyChangePercent": 0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 179.08,
+        "DailyChangePercent": 0.36,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "JKHY",
@@ -3414,9 +3414,9 @@
         "Date added": "2018-11-13",
         "CIK": "0000779152",
         "Founded": "1976",
-        "ClosePrice": 179.79,
-        "DailyChangePercent": 0.16,
-        "Date": "2025-06-12"
+        "ClosePrice": 180.18,
+        "DailyChangePercent": 0.21,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "J",
@@ -3427,9 +3427,9 @@
         "Date added": "2007-10-26",
         "CIK": "0000052988",
         "Founded": "1947",
-        "ClosePrice": 127.06,
-        "DailyChangePercent": -0.32,
-        "Date": "2025-06-12"
+        "ClosePrice": 127.61,
+        "DailyChangePercent": 0.43,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "JNJ",
@@ -3440,9 +3440,9 @@
         "Date added": "1973-06-30",
         "CIK": "0000200406",
         "Founded": "1886",
-        "ClosePrice": 155.26,
-        "DailyChangePercent": -0.76,
-        "Date": "2025-06-12"
+        "ClosePrice": 156.66,
+        "DailyChangePercent": 0.9,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "JCI",
@@ -3453,9 +3453,9 @@
         "Date added": "2010-08-27",
         "CIK": "0000833444",
         "Founded": "1885",
-        "ClosePrice": 103.19,
-        "DailyChangePercent": 0.28,
-        "Date": "2025-06-12"
+        "ClosePrice": 103.6,
+        "DailyChangePercent": 0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "JPM",
@@ -3466,9 +3466,9 @@
         "Date added": "1975-06-30",
         "CIK": "0000019617",
         "Founded": "2000 (1799 / 1871)",
-        "ClosePrice": 268.15,
-        "DailyChangePercent": -0.17,
-        "Date": "2025-06-12"
+        "ClosePrice": 268.24,
+        "DailyChangePercent": 0.03,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "JNPR",
@@ -3479,9 +3479,9 @@
         "Date added": "2006-06-02",
         "CIK": "0001043604",
         "Founded": "1996",
-        "ClosePrice": 35.9,
-        "DailyChangePercent": 0.2,
-        "Date": "2025-06-12"
+        "ClosePrice": 35.92,
+        "DailyChangePercent": 0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "K",
@@ -3492,9 +3492,9 @@
         "Date added": "1989-09-11",
         "CIK": "0000055067",
         "Founded": "1906",
-        "ClosePrice": 81.61,
-        "DailyChangePercent": 0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 80.22,
+        "DailyChangePercent": -1.7,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KVUE",
@@ -3505,9 +3505,9 @@
         "Date added": "2023-08-25",
         "CIK": "0001944048",
         "Founded": "2022 (Johnson & Johnson spinoff)",
-        "ClosePrice": 21.85,
-        "DailyChangePercent": 1.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 22.04,
+        "DailyChangePercent": 0.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KDP",
@@ -3518,9 +3518,9 @@
         "Date added": "2022-06-21",
         "CIK": "0001418135",
         "Founded": "1981",
-        "ClosePrice": 32.86,
-        "DailyChangePercent": -0.27,
-        "Date": "2025-06-12"
+        "ClosePrice": 33.14,
+        "DailyChangePercent": 0.85,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KEY",
@@ -3531,9 +3531,9 @@
         "Date added": "1994-03-01",
         "CIK": "0000091576",
         "Founded": "1825",
-        "ClosePrice": 16.23,
-        "DailyChangePercent": -0.73,
-        "Date": "2025-06-12"
+        "ClosePrice": 16.11,
+        "DailyChangePercent": -0.74,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KEYS",
@@ -3544,9 +3544,9 @@
         "Date added": "2018-11-06",
         "CIK": "0001601046",
         "Founded": "2014 (1939)",
-        "ClosePrice": 162.5,
-        "DailyChangePercent": -0.68,
-        "Date": "2025-06-12"
+        "ClosePrice": 162.0,
+        "DailyChangePercent": -0.31,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KMB",
@@ -3557,9 +3557,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000055785",
         "Founded": "1872",
-        "ClosePrice": 132.85,
-        "DailyChangePercent": -0.14,
-        "Date": "2025-06-12"
+        "ClosePrice": 133.89,
+        "DailyChangePercent": 0.78,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KIM",
@@ -3570,9 +3570,9 @@
         "Date added": "2006-04-04",
         "CIK": "0000879101",
         "Founded": "1958",
-        "ClosePrice": 20.99,
-        "DailyChangePercent": -0.99,
-        "Date": "2025-06-12"
+        "ClosePrice": 21.02,
+        "DailyChangePercent": 0.14,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KMI",
@@ -3583,9 +3583,9 @@
         "Date added": "2012-05-25",
         "CIK": "0001506307",
         "Founded": "1997",
-        "ClosePrice": 27.52,
+        "ClosePrice": 27.66,
         "DailyChangePercent": 0.51,
-        "Date": "2025-06-12"
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KKR",
@@ -3596,9 +3596,9 @@
         "Date added": "2024-06-24",
         "CIK": "0001404912",
         "Founded": "1976",
-        "ClosePrice": 126.0,
-        "DailyChangePercent": 1.6,
-        "Date": "2025-06-12"
+        "ClosePrice": 125.24,
+        "DailyChangePercent": -0.6,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KLAC",
@@ -3609,9 +3609,9 @@
         "Date added": "1997-09-30",
         "CIK": "0000319201",
         "Founded": "1975/1977 (1997)",
-        "ClosePrice": 872.0,
-        "DailyChangePercent": 1.8,
-        "Date": "2025-06-12"
+        "ClosePrice": 875.0,
+        "DailyChangePercent": 0.34,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KHC",
@@ -3622,9 +3622,9 @@
         "Date added": "2015-07-06",
         "CIK": "0001637459",
         "Founded": "2015 (1869)",
-        "ClosePrice": 26.42,
-        "DailyChangePercent": -0.64,
-        "Date": "2025-06-12"
+        "ClosePrice": 26.46,
+        "DailyChangePercent": 0.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "KR",
@@ -3635,9 +3635,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000056873",
         "Founded": "1883",
-        "ClosePrice": 64.62,
-        "DailyChangePercent": -1.24,
-        "Date": "2025-06-12"
+        "ClosePrice": 65.06,
+        "DailyChangePercent": 0.68,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LHX",
@@ -3648,9 +3648,9 @@
         "Date added": "2008-09-22",
         "CIK": "0000202058",
         "Founded": "2019 (L3 1997, Harris 1895)",
-        "ClosePrice": 246.67,
-        "DailyChangePercent": 0.77,
-        "Date": "2025-06-12"
+        "ClosePrice": 250.39,
+        "DailyChangePercent": 1.51,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LH",
@@ -3661,9 +3661,9 @@
         "Date added": "2004-11-01",
         "CIK": "0000920148",
         "Founded": "1978",
-        "ClosePrice": 259.95,
-        "DailyChangePercent": 0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 261.65,
+        "DailyChangePercent": 0.65,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LRCX",
@@ -3674,9 +3674,9 @@
         "Date added": "2012-06-29",
         "CIK": "0000707549",
         "Founded": "1980",
-        "ClosePrice": 90.95,
-        "DailyChangePercent": -0.05,
-        "Date": "2025-06-12"
+        "ClosePrice": 91.66,
+        "DailyChangePercent": 0.78,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LW",
@@ -3687,9 +3687,9 @@
         "Date added": "2018-12-03",
         "CIK": "0001679273",
         "Founded": "2016 (1950)",
-        "ClosePrice": 55.77,
-        "DailyChangePercent": 0.25,
-        "Date": "2025-06-12"
+        "ClosePrice": 56.28,
+        "DailyChangePercent": 0.91,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LVS",
@@ -3700,9 +3700,9 @@
         "Date added": "2019-10-03",
         "CIK": "0001300514",
         "Founded": "1988",
-        "ClosePrice": 41.84,
-        "DailyChangePercent": -1.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 41.91,
+        "DailyChangePercent": 0.17,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LDOS",
@@ -3713,9 +3713,9 @@
         "Date added": "2019-08-09",
         "CIK": "0001336920",
         "Founded": "1969",
-        "ClosePrice": 145.92,
-        "DailyChangePercent": 0.23,
-        "Date": "2025-06-12"
+        "ClosePrice": 148.02,
+        "DailyChangePercent": 1.44,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LEN",
@@ -3726,9 +3726,9 @@
         "Date added": "2005-10-04",
         "CIK": "0000920760",
         "Founded": "1954",
-        "ClosePrice": 111.5,
-        "DailyChangePercent": -1.81,
-        "Date": "2025-06-12"
+        "ClosePrice": 112.15,
+        "DailyChangePercent": 0.58,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LII",
@@ -3739,9 +3739,9 @@
         "Date added": "2024-12-23",
         "CIK": "0001069202",
         "Founded": "1895",
-        "ClosePrice": 550.95,
-        "DailyChangePercent": -0.78,
-        "Date": "2025-06-12"
+        "ClosePrice": 550.21,
+        "DailyChangePercent": -0.13,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LLY",
@@ -3752,9 +3752,9 @@
         "Date added": "1970-12-31",
         "CIK": "0000059478",
         "Founded": "1876",
-        "ClosePrice": 808.61,
-        "DailyChangePercent": 0.18,
-        "Date": "2025-06-12"
+        "ClosePrice": 812.03,
+        "DailyChangePercent": 0.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LIN",
@@ -3765,9 +3765,9 @@
         "Date added": "1992-07-01",
         "CIK": "0001707925",
         "Founded": "1879",
-        "ClosePrice": 468.54,
-        "DailyChangePercent": -1.48,
-        "Date": "2025-06-12"
+        "ClosePrice": 470.53,
+        "DailyChangePercent": 0.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LYV",
@@ -3778,9 +3778,9 @@
         "Date added": "2019-12-23",
         "CIK": "0001335258",
         "Founded": "2010",
-        "ClosePrice": 143.59,
-        "DailyChangePercent": -0.08,
-        "Date": "2025-06-12"
+        "ClosePrice": 141.31,
+        "DailyChangePercent": -1.59,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LKQ",
@@ -3791,9 +3791,9 @@
         "Date added": "2016-05-23",
         "CIK": "0001065696",
         "Founded": "1998",
-        "ClosePrice": 39.38,
-        "DailyChangePercent": -0.96,
-        "Date": "2025-06-12"
+        "ClosePrice": 39.04,
+        "DailyChangePercent": -0.86,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LMT",
@@ -3804,9 +3804,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000936468",
         "Founded": "1995",
-        "ClosePrice": 456.6,
-        "DailyChangePercent": -4.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 469.27,
+        "DailyChangePercent": 2.77,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "L",
@@ -3817,9 +3817,9 @@
         "Date added": "1995-05-31",
         "CIK": "0000060086",
         "Founded": "1959",
-        "ClosePrice": 88.55,
-        "DailyChangePercent": 0.45,
-        "Date": "2025-06-12"
+        "ClosePrice": 89.18,
+        "DailyChangePercent": 0.71,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LOW",
@@ -3830,9 +3830,9 @@
         "Date added": "1984-02-29",
         "CIK": "0000060667",
         "Founded": "1904/1946/1959",
-        "ClosePrice": 221.6,
-        "DailyChangePercent": -1.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 223.5,
+        "DailyChangePercent": 0.86,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LULU",
@@ -3843,9 +3843,9 @@
         "Date added": "2023-10-18",
         "CIK": "0001397187",
         "Founded": "1998",
-        "ClosePrice": 252.28,
-        "DailyChangePercent": -2.41,
-        "Date": "2025-06-12"
+        "ClosePrice": 247.03,
+        "DailyChangePercent": -2.08,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LYB",
@@ -3856,9 +3856,9 @@
         "Date added": "2012-09-05",
         "CIK": "0001489393",
         "Founded": "2007",
-        "ClosePrice": 61.12,
-        "DailyChangePercent": 0.89,
-        "Date": "2025-06-12"
+        "ClosePrice": 60.13,
+        "DailyChangePercent": -1.62,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MTB",
@@ -3869,9 +3869,9 @@
         "Date added": "2004-02-23",
         "CIK": "0000036270",
         "Founded": "1856",
-        "ClosePrice": 184.53,
-        "DailyChangePercent": -0.66,
-        "Date": "2025-06-12"
+        "ClosePrice": 183.99,
+        "DailyChangePercent": -0.29,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MPC",
@@ -3882,9 +3882,9 @@
         "Date added": "2011-07-01",
         "CIK": "0001510295",
         "Founded": "2009 (1887)",
-        "ClosePrice": 164.66,
-        "DailyChangePercent": 1.24,
-        "Date": "2025-06-12"
+        "ClosePrice": 165.07,
+        "DailyChangePercent": 0.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MKTX",
@@ -3895,9 +3895,9 @@
         "Date added": "2019-07-01",
         "CIK": "0001278021",
         "Founded": "2000",
-        "ClosePrice": 225.02,
-        "DailyChangePercent": 0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 226.89,
+        "DailyChangePercent": 0.83,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MAR",
@@ -3908,9 +3908,9 @@
         "Date added": "1998-05-29",
         "CIK": "0001048286",
         "Founded": "1927",
-        "ClosePrice": 266.06,
-        "DailyChangePercent": -0.74,
-        "Date": "2025-06-12"
+        "ClosePrice": 263.23,
+        "DailyChangePercent": -1.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MMC",
@@ -3921,9 +3921,9 @@
         "Date added": "1987-08-31",
         "CIK": "0000062709",
         "Founded": "1905",
-        "ClosePrice": 217.29,
-        "DailyChangePercent": -0.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 219.4,
+        "DailyChangePercent": 0.97,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MLM",
@@ -3934,9 +3934,9 @@
         "Date added": "2014-07-02",
         "CIK": "0000916076",
         "Founded": "1993",
-        "ClosePrice": 545.85,
-        "DailyChangePercent": -1.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 552.64,
+        "DailyChangePercent": 1.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MAS",
@@ -3947,9 +3947,9 @@
         "Date added": "1981-06-30",
         "CIK": "0000062996",
         "Founded": "1929",
-        "ClosePrice": 63.86,
-        "DailyChangePercent": -2.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 63.83,
+        "DailyChangePercent": -0.05,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MA",
@@ -3960,9 +3960,9 @@
         "Date added": "2008-07-18",
         "CIK": "0001141391",
         "Founded": "1966",
-        "ClosePrice": 590.74,
-        "DailyChangePercent": 0.2,
-        "Date": "2025-06-12"
+        "ClosePrice": 589.28,
+        "DailyChangePercent": -0.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MTCH",
@@ -3973,9 +3973,9 @@
         "Date added": "2021-09-20",
         "CIK": "0000891103",
         "Founded": "1986",
-        "ClosePrice": 31.54,
-        "DailyChangePercent": -0.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 30.66,
+        "DailyChangePercent": -2.79,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MKC",
@@ -3986,9 +3986,9 @@
         "Date added": "2003-03-20",
         "CIK": "0000063754",
         "Founded": "1889",
-        "ClosePrice": 75.63,
-        "DailyChangePercent": 0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 75.81,
+        "DailyChangePercent": 0.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MCD",
@@ -3999,9 +3999,9 @@
         "Date added": "1970-06-30",
         "CIK": "0000063908",
         "Founded": "1940",
-        "ClosePrice": 301.72,
-        "DailyChangePercent": 0.43,
-        "Date": "2025-06-12"
+        "ClosePrice": 303.16,
+        "DailyChangePercent": 0.48,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MCK",
@@ -4012,9 +4012,9 @@
         "Date added": "1999-01-13",
         "CIK": "0000927653",
         "Founded": "1833",
-        "ClosePrice": 717.76,
-        "DailyChangePercent": 1.83,
-        "Date": "2025-06-12"
+        "ClosePrice": 730.8,
+        "DailyChangePercent": 1.82,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MDT",
@@ -4025,9 +4025,9 @@
         "Date added": "1986-10-31",
         "CIK": "0001613103",
         "Founded": "1949",
-        "ClosePrice": 88.06,
-        "DailyChangePercent": 0.11,
-        "Date": "2025-06-12"
+        "ClosePrice": 88.49,
+        "DailyChangePercent": 0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MRK",
@@ -4038,9 +4038,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000310158",
         "Founded": "1891",
-        "ClosePrice": 80.32,
-        "DailyChangePercent": -1.27,
-        "Date": "2025-06-12"
+        "ClosePrice": 81.82,
+        "DailyChangePercent": 1.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "META",
@@ -4051,9 +4051,9 @@
         "Date added": "2013-12-23",
         "CIK": "0001326801",
         "Founded": "2004",
-        "ClosePrice": 694.14,
-        "DailyChangePercent": -1.18,
-        "Date": "2025-06-12"
+        "ClosePrice": 693.36,
+        "DailyChangePercent": -0.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MET",
@@ -4064,9 +4064,9 @@
         "Date added": "2000-12-11",
         "CIK": "0001099219",
         "Founded": "1868",
-        "ClosePrice": 78.91,
-        "DailyChangePercent": -0.65,
-        "Date": "2025-06-12"
+        "ClosePrice": 78.99,
+        "DailyChangePercent": 0.1,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MTD",
@@ -4077,9 +4077,9 @@
         "Date added": "2016-09-06",
         "CIK": "0001037646",
         "Founded": "1945",
-        "ClosePrice": 1192.98,
-        "DailyChangePercent": -1.94,
-        "Date": "2025-06-12"
+        "ClosePrice": 1188.21,
+        "DailyChangePercent": -0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MGM",
@@ -4090,9 +4090,9 @@
         "Date added": "2017-07-26",
         "CIK": "0000789570",
         "Founded": "1986",
-        "ClosePrice": 33.23,
-        "DailyChangePercent": -0.48,
-        "Date": "2025-06-12"
+        "ClosePrice": 33.14,
+        "DailyChangePercent": -0.27,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MCHP",
@@ -4103,9 +4103,9 @@
         "Date added": "2007-09-07",
         "CIK": "0000827054",
         "Founded": "1989",
-        "ClosePrice": 69.6,
-        "DailyChangePercent": 0.01,
-        "Date": "2025-06-12"
+        "ClosePrice": 67.93,
+        "DailyChangePercent": -2.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MU",
@@ -4116,9 +4116,9 @@
         "Date added": "1994-09-27",
         "CIK": "0000723125",
         "Founded": "1978",
-        "ClosePrice": 116.03,
-        "DailyChangePercent": 1.66,
-        "Date": "2025-06-12"
+        "ClosePrice": 116.18,
+        "DailyChangePercent": 0.13,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MSFT",
@@ -4129,9 +4129,9 @@
         "Date added": "1994-06-01",
         "CIK": "0000789019",
         "Founded": "1975",
-        "ClosePrice": 472.62,
-        "DailyChangePercent": 0.36,
-        "Date": "2025-06-12"
+        "ClosePrice": 478.87,
+        "DailyChangePercent": 1.32,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MAA",
@@ -4142,9 +4142,9 @@
         "Date added": "2016-12-02",
         "CIK": "0000912595",
         "Founded": "1977",
-        "ClosePrice": 150.36,
-        "DailyChangePercent": -0.99,
-        "Date": "2025-06-12"
+        "ClosePrice": 151.45,
+        "DailyChangePercent": 0.72,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MRNA",
@@ -4155,9 +4155,9 @@
         "Date added": "2021-07-21",
         "CIK": "0001682852",
         "Founded": "2010",
-        "ClosePrice": 27.75,
-        "DailyChangePercent": 0.25,
-        "Date": "2025-06-12"
+        "ClosePrice": 27.35,
+        "DailyChangePercent": -1.44,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MHK",
@@ -4168,9 +4168,9 @@
         "Date added": "2013-12-23",
         "CIK": "0000851968",
         "Founded": "1878",
-        "ClosePrice": 104.71,
-        "DailyChangePercent": -1.16,
-        "Date": "2025-06-12"
+        "ClosePrice": 104.77,
+        "DailyChangePercent": 0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MOH",
@@ -4181,9 +4181,9 @@
         "Date added": "2022-03-02",
         "CIK": "0001179929",
         "Founded": "1980",
-        "ClosePrice": 294.62,
-        "DailyChangePercent": -0.36,
-        "Date": "2025-06-12"
+        "ClosePrice": 293.48,
+        "DailyChangePercent": -0.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TAP",
@@ -4194,9 +4194,9 @@
         "Date added": "1976-06-30",
         "CIK": "0000024545",
         "Founded": "2005 (Molson 1786, Coors 1873)",
-        "ClosePrice": 51.76,
-        "DailyChangePercent": -0.86,
-        "Date": "2025-06-12"
+        "ClosePrice": 51.52,
+        "DailyChangePercent": -0.46,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MDLZ",
@@ -4207,9 +4207,9 @@
         "Date added": "2012-10-02",
         "CIK": "0001103982",
         "Founded": "2012",
-        "ClosePrice": 66.95,
-        "DailyChangePercent": -0.43,
-        "Date": "2025-06-12"
+        "ClosePrice": 68.12,
+        "DailyChangePercent": 1.75,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MPWR",
@@ -4220,9 +4220,9 @@
         "Date added": "2021-02-12",
         "CIK": "0001280452",
         "Founded": "1997",
-        "ClosePrice": 720.83,
-        "DailyChangePercent": -1.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 718.57,
+        "DailyChangePercent": -0.31,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MNST",
@@ -4233,9 +4233,9 @@
         "Date added": "2012-06-28",
         "CIK": "0000865752",
         "Founded": "2012 (1935)",
-        "ClosePrice": 62.59,
-        "DailyChangePercent": -0.71,
-        "Date": "2025-06-12"
+        "ClosePrice": 63.69,
+        "DailyChangePercent": 1.76,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MCO",
@@ -4246,9 +4246,9 @@
         "Date added": "1998-07-01",
         "CIK": "0001059556",
         "Founded": "1909",
-        "ClosePrice": 483.54,
-        "DailyChangePercent": -0.31,
-        "Date": "2025-06-12"
+        "ClosePrice": 481.01,
+        "DailyChangePercent": -0.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MS",
@@ -4259,9 +4259,9 @@
         "Date added": "1993-07-29",
         "CIK": "0000895421",
         "Founded": "1935",
-        "ClosePrice": 131.81,
-        "DailyChangePercent": -0.01,
-        "Date": "2025-06-12"
+        "ClosePrice": 131.92,
+        "DailyChangePercent": 0.08,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MOS",
@@ -4272,9 +4272,9 @@
         "Date added": "2011-09-26",
         "CIK": "0001285785",
         "Founded": "2004 (1865 / 1909)",
-        "ClosePrice": 34.65,
-        "DailyChangePercent": 1.67,
-        "Date": "2025-06-12"
+        "ClosePrice": 34.59,
+        "DailyChangePercent": -0.17,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MSI",
@@ -4285,9 +4285,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000068505",
         "Founded": "1928 (2011)",
-        "ClosePrice": 409.07,
-        "DailyChangePercent": -0.77,
-        "Date": "2025-06-12"
+        "ClosePrice": 413.07,
+        "DailyChangePercent": 0.98,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "MSCI",
@@ -4298,9 +4298,9 @@
         "Date added": "2018-04-04",
         "CIK": "0001408198",
         "Founded": "1969",
-        "ClosePrice": 554.42,
-        "DailyChangePercent": -0.61,
-        "Date": "2025-06-12"
+        "ClosePrice": 555.19,
+        "DailyChangePercent": 0.14,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NDAQ",
@@ -4311,9 +4311,9 @@
         "Date added": "2008-10-22",
         "CIK": "0001120193",
         "Founded": "1971",
-        "ClosePrice": 86.79,
-        "DailyChangePercent": 0.84,
-        "Date": "2025-06-12"
+        "ClosePrice": 86.9,
+        "DailyChangePercent": 0.13,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NTAP",
@@ -4324,9 +4324,9 @@
         "Date added": "1999-06-25",
         "CIK": "0001002047",
         "Founded": "1992",
-        "ClosePrice": 102.63,
-        "DailyChangePercent": 0.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 102.94,
+        "DailyChangePercent": 0.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NFLX",
@@ -4337,9 +4337,9 @@
         "Date added": "2010-12-20",
         "CIK": "0001065280",
         "Founded": "1997",
-        "ClosePrice": 1219.88,
-        "DailyChangePercent": 1.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 1215.03,
+        "DailyChangePercent": -0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NEM",
@@ -4350,9 +4350,9 @@
         "Date added": "1969-06-30",
         "CIK": "0001164727",
         "Founded": "1921",
-        "ClosePrice": 53.31,
-        "DailyChangePercent": 1.43,
-        "Date": "2025-06-12"
+        "ClosePrice": 55.92,
+        "DailyChangePercent": 4.9,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NWSA",
@@ -4363,9 +4363,9 @@
         "Date added": "2013-08-01",
         "CIK": "0001564708",
         "Founded": "2013 (News Corporation 1980)",
-        "ClosePrice": 27.88,
-        "DailyChangePercent": -0.29,
-        "Date": "2025-06-12"
+        "ClosePrice": 27.67,
+        "DailyChangePercent": -0.75,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NWS",
@@ -4376,9 +4376,9 @@
         "Date added": "2015-09-18",
         "CIK": "0001564708",
         "Founded": "2013 (News Corporation 1980)",
-        "ClosePrice": 31.83,
-        "DailyChangePercent": -0.59,
-        "Date": "2025-06-12"
+        "ClosePrice": 31.67,
+        "DailyChangePercent": -0.5,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NEE",
@@ -4389,9 +4389,9 @@
         "Date added": "1976-06-30",
         "CIK": "0000753308",
         "Founded": "1984 (1925)",
-        "ClosePrice": 73.0,
-        "DailyChangePercent": 0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 73.84,
+        "DailyChangePercent": 1.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NKE",
@@ -4402,9 +4402,9 @@
         "Date added": "1988-11-30",
         "CIK": "0000320187",
         "Founded": "1964",
-        "ClosePrice": 63.11,
-        "DailyChangePercent": -1.19,
-        "Date": "2025-06-12"
+        "ClosePrice": 62.8,
+        "DailyChangePercent": -0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NI",
@@ -4415,9 +4415,9 @@
         "Date added": "2000-11-02",
         "CIK": "0001111711",
         "Founded": "1912",
-        "ClosePrice": 39.46,
-        "DailyChangePercent": -0.33,
-        "Date": "2025-06-12"
+        "ClosePrice": 39.91,
+        "DailyChangePercent": 1.14,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NDSN",
@@ -4428,9 +4428,9 @@
         "Date added": "2022-02-15",
         "CIK": "0000072331",
         "Founded": "1935",
-        "ClosePrice": 219.28,
-        "DailyChangePercent": -1.89,
-        "Date": "2025-06-12"
+        "ClosePrice": 218.03,
+        "DailyChangePercent": -0.57,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NSC",
@@ -4441,9 +4441,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000702165",
         "Founded": "1881/1894 (1980)",
-        "ClosePrice": 251.33,
-        "DailyChangePercent": -0.63,
-        "Date": "2025-06-12"
+        "ClosePrice": 251.47,
+        "DailyChangePercent": 0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NTRS",
@@ -4454,9 +4454,9 @@
         "Date added": "1998-01-30",
         "CIK": "0000073124",
         "Founded": "1889",
-        "ClosePrice": 108.44,
-        "DailyChangePercent": -1.34,
-        "Date": "2025-06-12"
+        "ClosePrice": 109.06,
+        "DailyChangePercent": 0.57,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NOC",
@@ -4467,9 +4467,9 @@
         "Date added": "1957-03-04",
         "CIK": "0001133421",
         "Founded": "1994 (Northrop 1939, Grumman 1930)",
-        "ClosePrice": 488.46,
-        "DailyChangePercent": -0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 497.13,
+        "DailyChangePercent": 1.77,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NCLH",
@@ -4480,9 +4480,9 @@
         "Date added": "2017-10-13",
         "CIK": "0001513761",
         "Founded": "2011 (1966)",
-        "ClosePrice": 19.08,
-        "DailyChangePercent": -3.34,
-        "Date": "2025-06-12"
+        "ClosePrice": 18.72,
+        "DailyChangePercent": -1.89,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NRG",
@@ -4493,9 +4493,9 @@
         "Date added": "2010-01-29",
         "CIK": "0001013871",
         "Founded": "1992",
-        "ClosePrice": 149.07,
-        "DailyChangePercent": 0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 151.0,
+        "DailyChangePercent": 1.29,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NUE",
@@ -4506,9 +4506,9 @@
         "Date added": "1985-04-30",
         "CIK": "0000073309",
         "Founded": "1940",
-        "ClosePrice": 117.13,
-        "DailyChangePercent": -6.06,
-        "Date": "2025-06-12"
+        "ClosePrice": 118.45,
+        "DailyChangePercent": 1.13,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NVDA",
@@ -4519,9 +4519,9 @@
         "Date added": "2001-11-30",
         "CIK": "0001045810",
         "Founded": "1993",
-        "ClosePrice": 142.83,
-        "DailyChangePercent": -0.78,
-        "Date": "2025-06-12"
+        "ClosePrice": 145.0,
+        "DailyChangePercent": 1.52,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NVR",
@@ -4532,9 +4532,9 @@
         "Date added": "2019-09-26",
         "CIK": "0000906163",
         "Founded": "1980",
-        "ClosePrice": 7296.57,
-        "DailyChangePercent": -1.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 7386.32,
+        "DailyChangePercent": 1.23,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NXPI",
@@ -4545,9 +4545,9 @@
         "Date added": "2021-03-22",
         "CIK": "0001413447",
         "Founded": "1953",
-        "ClosePrice": 217.41,
-        "DailyChangePercent": -0.6,
-        "Date": "2025-06-12"
+        "ClosePrice": 217.4,
+        "DailyChangePercent": -0.0,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ORLY",
@@ -4558,9 +4558,9 @@
         "Date added": "2009-03-27",
         "CIK": "0000898173",
         "Founded": "1957",
-        "ClosePrice": 90.01,
-        "DailyChangePercent": -1.85,
-        "Date": "2025-06-12"
+        "ClosePrice": 91.05,
+        "DailyChangePercent": 1.16,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "OXY",
@@ -4571,9 +4571,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000797468",
         "Founded": "1920",
-        "ClosePrice": 44.84,
-        "DailyChangePercent": 2.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 44.76,
+        "DailyChangePercent": -0.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ODFL",
@@ -4584,9 +4584,9 @@
         "Date added": "2019-12-09",
         "CIK": "0000878927",
         "Founded": "1934",
-        "ClosePrice": 162.11,
-        "DailyChangePercent": -3.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 162.41,
+        "DailyChangePercent": 0.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "OMC",
@@ -4597,9 +4597,9 @@
         "Date added": "1997-12-31",
         "CIK": "0000029989",
         "Founded": "1986",
-        "ClosePrice": 73.3,
-        "DailyChangePercent": 0.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 71.19,
+        "DailyChangePercent": -2.88,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ON",
@@ -4610,9 +4610,9 @@
         "Date added": "2022-06-21",
         "CIK": "0001097864",
         "Founded": "1999",
-        "ClosePrice": 51.78,
-        "DailyChangePercent": -3.75,
-        "Date": "2025-06-12"
+        "ClosePrice": 52.98,
+        "DailyChangePercent": 2.32,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "OKE",
@@ -4623,9 +4623,9 @@
         "Date added": "2010-03-15",
         "CIK": "0001039684",
         "Founded": "1906",
-        "ClosePrice": 82.9,
-        "DailyChangePercent": 1.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 82.65,
+        "DailyChangePercent": -0.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ORCL",
@@ -4636,9 +4636,9 @@
         "Date added": "1989-08-31",
         "CIK": "0001341439",
         "Founded": "1977",
-        "ClosePrice": 176.38,
-        "DailyChangePercent": -0.62,
-        "Date": "2025-06-12"
+        "ClosePrice": 199.86,
+        "DailyChangePercent": 13.31,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "OTIS",
@@ -4649,9 +4649,9 @@
         "Date added": "2020-04-03",
         "CIK": "0001781335",
         "Founded": "2020 (1853, United Technologies spinoff)",
-        "ClosePrice": 95.4,
-        "DailyChangePercent": 0.08,
-        "Date": "2025-06-12"
+        "ClosePrice": 96.95,
+        "DailyChangePercent": 1.62,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PCAR",
@@ -4662,9 +4662,9 @@
         "Date added": "1980-12-31",
         "CIK": "0000075362",
         "Founded": "1905",
-        "ClosePrice": 93.88,
-        "DailyChangePercent": -0.95,
-        "Date": "2025-06-12"
+        "ClosePrice": 93.64,
+        "DailyChangePercent": -0.26,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PKG",
@@ -4675,9 +4675,9 @@
         "Date added": "2017-07-26",
         "CIK": "0000075677",
         "Founded": "1959",
-        "ClosePrice": 193.21,
-        "DailyChangePercent": -2.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 193.31,
+        "DailyChangePercent": 0.05,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PLTR",
@@ -4688,9 +4688,9 @@
         "Date added": "2024-09-23",
         "CIK": "0001321655",
         "Founded": "2003",
-        "ClosePrice": 136.39,
-        "DailyChangePercent": 2.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 135.19,
+        "DailyChangePercent": -0.88,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PANW",
@@ -4701,9 +4701,9 @@
         "Date added": "2023-06-20",
         "CIK": "0001327567",
         "Founded": "2005",
-        "ClosePrice": 194.39,
-        "DailyChangePercent": -0.8,
-        "Date": "2025-06-12"
+        "ClosePrice": 197.67,
+        "DailyChangePercent": 1.69,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PARA",
@@ -4714,9 +4714,9 @@
         "Date added": "1994-09-30",
         "CIK": "0000813828",
         "Founded": "2019 (Paramount Pictures 1912)",
-        "ClosePrice": 12.24,
-        "DailyChangePercent": 0.58,
-        "Date": "2025-06-12"
+        "ClosePrice": 11.94,
+        "DailyChangePercent": -2.45,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PH",
@@ -4727,9 +4727,9 @@
         "Date added": "1985-11-30",
         "CIK": "0000076334",
         "Founded": "1917",
-        "ClosePrice": 671.75,
-        "DailyChangePercent": 0.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 666.86,
+        "DailyChangePercent": -0.73,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PAYX",
@@ -4740,9 +4740,9 @@
         "Date added": "1998-10-01",
         "CIK": "0000723531",
         "Founded": "1971",
-        "ClosePrice": 154.04,
-        "DailyChangePercent": -0.81,
-        "Date": "2025-06-12"
+        "ClosePrice": 153.49,
+        "DailyChangePercent": -0.36,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PAYC",
@@ -4753,9 +4753,9 @@
         "Date added": "2020-01-28",
         "CIK": "0001590955",
         "Founded": "1998",
-        "ClosePrice": 251.8,
-        "DailyChangePercent": -0.91,
-        "Date": "2025-06-12"
+        "ClosePrice": 250.85,
+        "DailyChangePercent": -0.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PYPL",
@@ -4766,9 +4766,9 @@
         "Date added": "2015-07-20",
         "CIK": "0001633917",
         "Founded": "1998",
-        "ClosePrice": 74.61,
-        "DailyChangePercent": -0.2,
-        "Date": "2025-06-12"
+        "ClosePrice": 74.81,
+        "DailyChangePercent": 0.27,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PNR",
@@ -4779,9 +4779,9 @@
         "Date added": "2012-10-01",
         "CIK": "0000077360",
         "Founded": "1966",
-        "ClosePrice": 99.21,
-        "DailyChangePercent": -0.75,
-        "Date": "2025-06-12"
+        "ClosePrice": 98.91,
+        "DailyChangePercent": -0.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PEP",
@@ -4792,9 +4792,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000077476",
         "Founded": "1898",
-        "ClosePrice": 129.9,
-        "DailyChangePercent": -1.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 132.3,
+        "DailyChangePercent": 1.85,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PFE",
@@ -4805,9 +4805,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000078003",
         "Founded": "1849",
-        "ClosePrice": 24.48,
-        "DailyChangePercent": 0.74,
-        "Date": "2025-06-12"
+        "ClosePrice": 24.84,
+        "DailyChangePercent": 1.47,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PCG",
@@ -4818,9 +4818,9 @@
         "Date added": "2022-10-03",
         "CIK": "0001004980",
         "Founded": "1905",
-        "ClosePrice": 14.39,
-        "DailyChangePercent": -2.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 14.3,
+        "DailyChangePercent": -0.63,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PM",
@@ -4831,9 +4831,9 @@
         "Date added": "2008-03-31",
         "CIK": "0001413329",
         "Founded": "2008 (1847)",
-        "ClosePrice": 183.37,
-        "DailyChangePercent": 2.42,
-        "Date": "2025-06-12"
+        "ClosePrice": 184.1,
+        "DailyChangePercent": 0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PSX",
@@ -4844,9 +4844,9 @@
         "Date added": "2012-05-01",
         "CIK": "0001534701",
         "Founded": "2012 (1917)",
-        "ClosePrice": 120.95,
-        "DailyChangePercent": 1.9,
-        "Date": "2025-06-12"
+        "ClosePrice": 121.52,
+        "DailyChangePercent": 0.47,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PNW",
@@ -4857,9 +4857,9 @@
         "Date added": "1999-10-04",
         "CIK": "0000764622",
         "Founded": "1985",
-        "ClosePrice": 89.21,
-        "DailyChangePercent": -0.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 90.7,
+        "DailyChangePercent": 1.67,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PNC",
@@ -4871,8 +4871,8 @@
         "CIK": "0000713676",
         "Founded": "1845",
         "ClosePrice": 177.74,
-        "DailyChangePercent": -0.93,
-        "Date": "2025-06-12"
+        "DailyChangePercent": 0.0,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "POOL",
@@ -4883,9 +4883,9 @@
         "Date added": "2020-10-07",
         "CIK": "0000945841",
         "Founded": "1993",
-        "ClosePrice": 299.98,
-        "DailyChangePercent": -2.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 295.83,
+        "DailyChangePercent": -1.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PPG",
@@ -4896,9 +4896,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000079879",
         "Founded": "1883",
-        "ClosePrice": 113.01,
-        "DailyChangePercent": -1.76,
-        "Date": "2025-06-12"
+        "ClosePrice": 112.03,
+        "DailyChangePercent": -0.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PPL",
@@ -4909,9 +4909,9 @@
         "Date added": "2001-10-01",
         "CIK": "0000922224",
         "Founded": "1920",
-        "ClosePrice": 33.78,
-        "DailyChangePercent": 0.18,
-        "Date": "2025-06-12"
+        "ClosePrice": 34.38,
+        "DailyChangePercent": 1.78,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PFG",
@@ -4922,9 +4922,9 @@
         "Date added": "2002-07-22",
         "CIK": "0001126328",
         "Founded": "1879",
-        "ClosePrice": 76.49,
-        "DailyChangePercent": -0.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 77.02,
+        "DailyChangePercent": 0.69,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PG",
@@ -4935,9 +4935,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000080424",
         "Founded": "1837",
-        "ClosePrice": 162.11,
-        "DailyChangePercent": -0.45,
-        "Date": "2025-06-12"
+        "ClosePrice": 163.18,
+        "DailyChangePercent": 0.66,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PGR",
@@ -4948,9 +4948,9 @@
         "Date added": "1997-08-04",
         "CIK": "0000080661",
         "Founded": "1937",
-        "ClosePrice": 263.22,
-        "DailyChangePercent": -0.86,
-        "Date": "2025-06-12"
+        "ClosePrice": 268.42,
+        "DailyChangePercent": 1.98,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PLD",
@@ -4961,9 +4961,9 @@
         "Date added": "2003-07-17",
         "CIK": "0001045609",
         "Founded": "1983",
-        "ClosePrice": 108.5,
-        "DailyChangePercent": -0.9,
-        "Date": "2025-06-12"
+        "ClosePrice": 108.44,
+        "DailyChangePercent": -0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PRU",
@@ -4974,9 +4974,9 @@
         "Date added": "2002-07-22",
         "CIK": "0001137774",
         "Founded": "1875",
-        "ClosePrice": 104.61,
-        "DailyChangePercent": -1.4,
-        "Date": "2025-06-12"
+        "ClosePrice": 104.9,
+        "DailyChangePercent": 0.28,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PEG",
@@ -4987,9 +4987,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000788784",
         "Founded": "1903",
-        "ClosePrice": 80.81,
-        "DailyChangePercent": 1.74,
-        "Date": "2025-06-12"
+        "ClosePrice": 81.56,
+        "DailyChangePercent": 0.93,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PTC",
@@ -5000,9 +5000,9 @@
         "Date added": "2021-04-20",
         "CIK": "0000857005",
         "Founded": "1985",
-        "ClosePrice": 171.0,
-        "DailyChangePercent": 0.05,
-        "Date": "2025-06-12"
+        "ClosePrice": 171.02,
+        "DailyChangePercent": 0.01,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PSA",
@@ -5013,9 +5013,9 @@
         "Date added": "2005-08-19",
         "CIK": "0001393311",
         "Founded": "1972",
-        "ClosePrice": 300.16,
-        "DailyChangePercent": -1.27,
-        "Date": "2025-06-12"
+        "ClosePrice": 296.65,
+        "DailyChangePercent": -1.17,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PHM",
@@ -5026,9 +5026,9 @@
         "Date added": "1984-04-30",
         "CIK": "0000822416",
         "Founded": "1956",
-        "ClosePrice": 103.42,
-        "DailyChangePercent": -1.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 104.15,
+        "DailyChangePercent": 0.71,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "PWR",
@@ -5039,9 +5039,9 @@
         "Date added": "2009-07-01",
         "CIK": "0001050915",
         "Founded": "1997",
-        "ClosePrice": 355.78,
-        "DailyChangePercent": 2.01,
-        "Date": "2025-06-12"
+        "ClosePrice": 358.65,
+        "DailyChangePercent": 0.81,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "QCOM",
@@ -5052,9 +5052,9 @@
         "Date added": "1999-07-22",
         "CIK": "0000804328",
         "Founded": "1985",
-        "ClosePrice": 159.48,
-        "DailyChangePercent": 0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 158.7,
+        "DailyChangePercent": -0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DGX",
@@ -5065,9 +5065,9 @@
         "Date added": "2002-12-12",
         "CIK": "0001022079",
         "Founded": "1967",
-        "ClosePrice": 176.98,
-        "DailyChangePercent": -0.26,
-        "Date": "2025-06-12"
+        "ClosePrice": 179.04,
+        "DailyChangePercent": 1.16,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RL",
@@ -5078,9 +5078,9 @@
         "Date added": "2007-02-02",
         "CIK": "0001037038",
         "Founded": "1967",
-        "ClosePrice": 267.67,
-        "DailyChangePercent": -0.12,
-        "Date": "2025-06-12"
+        "ClosePrice": 267.2,
+        "DailyChangePercent": -0.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RJF",
@@ -5091,9 +5091,9 @@
         "Date added": "2017-03-20",
         "CIK": "0000720005",
         "Founded": "1962",
-        "ClosePrice": 147.73,
-        "DailyChangePercent": 0.58,
-        "Date": "2025-06-12"
+        "ClosePrice": 148.61,
+        "DailyChangePercent": 0.6,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RTX",
@@ -5104,9 +5104,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000101829",
         "Founded": "1922",
-        "ClosePrice": 141.81,
-        "DailyChangePercent": 2.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 140.98,
+        "DailyChangePercent": -0.59,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "O",
@@ -5117,9 +5117,9 @@
         "Date added": "2015-04-07",
         "CIK": "0000726728",
         "Founded": "1969",
-        "ClosePrice": 57.76,
-        "DailyChangePercent": 0.71,
-        "Date": "2025-06-12"
+        "ClosePrice": 57.96,
+        "DailyChangePercent": 0.35,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "REG",
@@ -5130,9 +5130,9 @@
         "Date added": "2017-03-02",
         "CIK": "0000910606",
         "Founded": "1963",
-        "ClosePrice": 71.01,
-        "DailyChangePercent": -2.28,
-        "Date": "2025-06-12"
+        "ClosePrice": 71.06,
+        "DailyChangePercent": 0.07,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "REGN",
@@ -5143,9 +5143,9 @@
         "Date added": "2013-05-01",
         "CIK": "0000872589",
         "Founded": "1988",
-        "ClosePrice": 518.6,
-        "DailyChangePercent": -0.94,
-        "Date": "2025-06-12"
+        "ClosePrice": 521.84,
+        "DailyChangePercent": 0.62,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RF",
@@ -5156,9 +5156,9 @@
         "Date added": "1998-08-28",
         "CIK": "0001281761",
         "Founded": "1971",
-        "ClosePrice": 22.29,
-        "DailyChangePercent": -0.31,
-        "Date": "2025-06-12"
+        "ClosePrice": 22.08,
+        "DailyChangePercent": -0.94,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RSG",
@@ -5169,9 +5169,9 @@
         "Date added": "2008-12-05",
         "CIK": "0001060391",
         "Founded": "1998 (1981)",
-        "ClosePrice": 248.24,
-        "DailyChangePercent": 0.1,
-        "Date": "2025-06-12"
+        "ClosePrice": 251.85,
+        "DailyChangePercent": 1.45,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RMD",
@@ -5182,9 +5182,9 @@
         "Date added": "2017-07-26",
         "CIK": "0000943819",
         "Founded": "1989",
-        "ClosePrice": 251.36,
-        "DailyChangePercent": -0.51,
-        "Date": "2025-06-12"
+        "ClosePrice": 252.21,
+        "DailyChangePercent": 0.34,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RVTY",
@@ -5195,9 +5195,9 @@
         "Date added": "1985-05-31",
         "CIK": "0000031791",
         "Founded": "1937",
-        "ClosePrice": 96.07,
-        "DailyChangePercent": -0.19,
-        "Date": "2025-06-12"
+        "ClosePrice": 95.7,
+        "DailyChangePercent": -0.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ROK",
@@ -5208,9 +5208,9 @@
         "Date added": "2000-03-12",
         "CIK": "0001024478",
         "Founded": "1903",
-        "ClosePrice": 325.04,
-        "DailyChangePercent": -0.06,
-        "Date": "2025-06-12"
+        "ClosePrice": 325.14,
+        "DailyChangePercent": 0.03,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ROL",
@@ -5221,9 +5221,9 @@
         "Date added": "2018-10-01",
         "CIK": "0000084839",
         "Founded": "1948",
-        "ClosePrice": 56.99,
-        "DailyChangePercent": 0.21,
-        "Date": "2025-06-12"
+        "ClosePrice": 57.29,
+        "DailyChangePercent": 0.53,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ROP",
@@ -5234,9 +5234,9 @@
         "Date added": "2009-12-23",
         "CIK": "0000882835",
         "Founded": "1981",
-        "ClosePrice": 569.56,
-        "DailyChangePercent": -0.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 572.03,
+        "DailyChangePercent": 0.43,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ROST",
@@ -5247,9 +5247,9 @@
         "Date added": "2009-12-21",
         "CIK": "0000745732",
         "Founded": "1982",
-        "ClosePrice": 136.39,
-        "DailyChangePercent": -2.63,
-        "Date": "2025-06-12"
+        "ClosePrice": 133.47,
+        "DailyChangePercent": -2.14,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "RCL",
@@ -5260,9 +5260,9 @@
         "Date added": "2014-12-05",
         "CIK": "0000884887",
         "Founded": "1997",
-        "ClosePrice": 267.96,
-        "DailyChangePercent": -0.65,
-        "Date": "2025-06-12"
+        "ClosePrice": 265.73,
+        "DailyChangePercent": -0.83,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SPGI",
@@ -5273,9 +5273,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000064040",
         "Founded": "1917",
-        "ClosePrice": 513.98,
-        "DailyChangePercent": 0.01,
-        "Date": "2025-06-12"
+        "ClosePrice": 505.87,
+        "DailyChangePercent": -1.58,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "CRM",
@@ -5286,9 +5286,9 @@
         "Date added": "2008-09-15",
         "CIK": "0001108524",
         "Founded": "1999",
-        "ClosePrice": 265.91,
-        "DailyChangePercent": -0.86,
-        "Date": "2025-06-12"
+        "ClosePrice": 266.91,
+        "DailyChangePercent": 0.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SBAC",
@@ -5299,9 +5299,9 @@
         "Date added": "2017-09-01",
         "CIK": "0001034054",
         "Founded": "1989",
-        "ClosePrice": 224.75,
-        "DailyChangePercent": -0.62,
-        "Date": "2025-06-12"
+        "ClosePrice": 228.07,
+        "DailyChangePercent": 1.48,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SLB",
@@ -5312,9 +5312,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000087347",
         "Founded": "1926",
-        "ClosePrice": 35.69,
-        "DailyChangePercent": 0.48,
-        "Date": "2025-06-12"
+        "ClosePrice": 35.63,
+        "DailyChangePercent": -0.17,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "STX",
@@ -5325,9 +5325,9 @@
         "Date added": "2012-07-02",
         "CIK": "0001137789",
         "Founded": "1979",
-        "ClosePrice": 126.49,
-        "DailyChangePercent": -1.17,
-        "Date": "2025-06-12"
+        "ClosePrice": 126.07,
+        "DailyChangePercent": -0.33,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SRE",
@@ -5338,9 +5338,9 @@
         "Date added": "2017-03-17",
         "CIK": "0001032208",
         "Founded": "1998",
-        "ClosePrice": 75.98,
-        "DailyChangePercent": 0.01,
-        "Date": "2025-06-12"
+        "ClosePrice": 76.23,
+        "DailyChangePercent": 0.33,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "NOW",
@@ -5351,9 +5351,9 @@
         "Date added": "2019-11-21",
         "CIK": "0001373715",
         "Founded": "2003",
-        "ClosePrice": 1004.33,
-        "DailyChangePercent": -0.54,
-        "Date": "2025-06-12"
+        "ClosePrice": 1007.37,
+        "DailyChangePercent": 0.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SHW",
@@ -5364,9 +5364,9 @@
         "Date added": "1964-06-30",
         "CIK": "0000089800",
         "Founded": "1866",
-        "ClosePrice": 357.13,
-        "DailyChangePercent": -1.0,
-        "Date": "2025-06-12"
+        "ClosePrice": 356.2,
+        "DailyChangePercent": -0.26,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SPG",
@@ -5377,9 +5377,9 @@
         "Date added": "2002-06-26",
         "CIK": "0001063761",
         "Founded": "2003",
-        "ClosePrice": 159.7,
-        "DailyChangePercent": -0.74,
-        "Date": "2025-06-12"
+        "ClosePrice": 158.79,
+        "DailyChangePercent": -0.57,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SWKS",
@@ -5390,9 +5390,9 @@
         "Date added": "2015-03-12",
         "CIK": "0000004127",
         "Founded": "2002",
-        "ClosePrice": 72.82,
-        "DailyChangePercent": -2.84,
-        "Date": "2025-06-12"
+        "ClosePrice": 72.01,
+        "DailyChangePercent": -1.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SJM",
@@ -5403,9 +5403,9 @@
         "Date added": "2008-11-06",
         "CIK": "0000091419",
         "Founded": "1897",
-        "ClosePrice": 95.87,
-        "DailyChangePercent": 1.55,
-        "Date": "2025-06-12"
+        "ClosePrice": 97.37,
+        "DailyChangePercent": 1.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SW",
@@ -5416,9 +5416,9 @@
         "Date added": "2024-07-08",
         "CIK": "0002005951",
         "Founded": "1934",
-        "ClosePrice": 43.39,
-        "DailyChangePercent": -0.96,
-        "Date": "2025-06-12"
+        "ClosePrice": 43.0,
+        "DailyChangePercent": -0.9,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SNA",
@@ -5429,9 +5429,9 @@
         "Date added": "1982-09-30",
         "CIK": "0000091440",
         "Founded": "1920",
-        "ClosePrice": 320.72,
-        "DailyChangePercent": -0.43,
-        "Date": "2025-06-12"
+        "ClosePrice": 319.19,
+        "DailyChangePercent": -0.48,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SOLV",
@@ -5442,9 +5442,9 @@
         "Date added": "2024-04-01",
         "CIK": "0001964738",
         "Founded": "2023",
-        "ClosePrice": 74.41,
-        "DailyChangePercent": -1.51,
-        "Date": "2025-06-12"
+        "ClosePrice": 74.29,
+        "DailyChangePercent": -0.16,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SO",
@@ -5455,9 +5455,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000092122",
         "Founded": "1945",
-        "ClosePrice": 89.55,
-        "DailyChangePercent": 0.28,
-        "Date": "2025-06-12"
+        "ClosePrice": 90.36,
+        "DailyChangePercent": 0.9,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "LUV",
@@ -5468,9 +5468,9 @@
         "Date added": "1994-07-01",
         "CIK": "0000092380",
         "Founded": "1967",
-        "ClosePrice": 33.49,
-        "DailyChangePercent": -2.53,
-        "Date": "2025-06-12"
+        "ClosePrice": 32.58,
+        "DailyChangePercent": -2.72,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SWK",
@@ -5481,9 +5481,9 @@
         "Date added": "1982-09-30",
         "CIK": "0000093556",
         "Founded": "1843",
-        "ClosePrice": 68.13,
-        "DailyChangePercent": -1.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 67.42,
+        "DailyChangePercent": -1.04,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SBUX",
@@ -5494,9 +5494,9 @@
         "Date added": "2000-06-07",
         "CIK": "0000829224",
         "Founded": "1971",
-        "ClosePrice": 95.39,
-        "DailyChangePercent": 4.33,
-        "Date": "2025-06-12"
+        "ClosePrice": 94.32,
+        "DailyChangePercent": -1.12,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "STT",
@@ -5507,9 +5507,9 @@
         "Date added": "2003-03-14",
         "CIK": "0000093751",
         "Founded": "1792",
-        "ClosePrice": 97.3,
-        "DailyChangePercent": -1.87,
-        "Date": "2025-06-12"
+        "ClosePrice": 97.6,
+        "DailyChangePercent": 0.31,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "STLD",
@@ -5520,9 +5520,9 @@
         "Date added": "2022-12-22",
         "CIK": "0001022671",
         "Founded": "1993",
-        "ClosePrice": 130.03,
-        "DailyChangePercent": -2.82,
-        "Date": "2025-06-12"
+        "ClosePrice": 131.85,
+        "DailyChangePercent": 1.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "STE",
@@ -5533,9 +5533,9 @@
         "Date added": "2019-12-23",
         "CIK": "0001757898",
         "Founded": "1985",
-        "ClosePrice": 240.74,
-        "DailyChangePercent": -0.67,
-        "Date": "2025-06-12"
+        "ClosePrice": 242.41,
+        "DailyChangePercent": 0.69,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SYK",
@@ -5546,9 +5546,9 @@
         "Date added": "2000-12-12",
         "CIK": "0000310764",
         "Founded": "1941",
-        "ClosePrice": 381.08,
-        "DailyChangePercent": -1.03,
-        "Date": "2025-06-12"
+        "ClosePrice": 380.49,
+        "DailyChangePercent": -0.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SMCI",
@@ -5559,9 +5559,9 @@
         "Date added": "2024-03-18",
         "CIK": "0001375365",
         "Founded": "1993",
-        "ClosePrice": 43.21,
-        "DailyChangePercent": 0.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 43.36,
+        "DailyChangePercent": 0.35,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SYF",
@@ -5572,9 +5572,9 @@
         "Date added": "2015-11-18",
         "CIK": "0001601712",
         "Founded": "2003",
-        "ClosePrice": 61.79,
-        "DailyChangePercent": 1.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 61.44,
+        "DailyChangePercent": -0.57,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SNPS",
@@ -5585,9 +5585,9 @@
         "Date added": "2017-03-16",
         "CIK": "0000883241",
         "Founded": "1986",
-        "ClosePrice": 500.73,
-        "DailyChangePercent": -0.73,
-        "Date": "2025-06-12"
+        "ClosePrice": 494.99,
+        "DailyChangePercent": -1.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "SYY",
@@ -5598,9 +5598,9 @@
         "Date added": "1986-12-31",
         "CIK": "0000096021",
         "Founded": "1969",
-        "ClosePrice": 74.74,
-        "DailyChangePercent": -1.02,
-        "Date": "2025-06-12"
+        "ClosePrice": 75.39,
+        "DailyChangePercent": 0.87,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TMUS",
@@ -5611,9 +5611,9 @@
         "Date added": "2019-07-15",
         "CIK": "0001283699",
         "Founded": "1994",
-        "ClosePrice": 230.94,
-        "DailyChangePercent": -2.55,
-        "Date": "2025-06-12"
+        "ClosePrice": 228.7,
+        "DailyChangePercent": -0.97,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TROW",
@@ -5624,9 +5624,9 @@
         "Date added": "2019-07-29",
         "CIK": "0001113169",
         "Founded": "1937",
-        "ClosePrice": 95.1,
-        "DailyChangePercent": -0.87,
-        "Date": "2025-06-12"
+        "ClosePrice": 94.58,
+        "DailyChangePercent": -0.55,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TTWO",
@@ -5637,9 +5637,9 @@
         "Date added": "2018-03-19",
         "CIK": "0000946581",
         "Founded": "1993",
-        "ClosePrice": 234.74,
-        "DailyChangePercent": -0.07,
-        "Date": "2025-06-12"
+        "ClosePrice": 234.46,
+        "DailyChangePercent": -0.12,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TPR",
@@ -5650,9 +5650,9 @@
         "Date added": "2004-09-01",
         "CIK": "0001116132",
         "Founded": "2017",
-        "ClosePrice": 81.75,
-        "DailyChangePercent": 2.3,
-        "Date": "2025-06-12"
+        "ClosePrice": 82.2,
+        "DailyChangePercent": 0.55,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TRGP",
@@ -5663,9 +5663,9 @@
         "Date added": "2022-10-12",
         "CIK": "0001389170",
         "Founded": "2005",
-        "ClosePrice": 169.78,
-        "DailyChangePercent": 2.82,
-        "Date": "2025-06-12"
+        "ClosePrice": 169.14,
+        "DailyChangePercent": -0.38,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TGT",
@@ -5676,9 +5676,9 @@
         "Date added": "1976-12-31",
         "CIK": "0000027419",
         "Founded": "1902",
-        "ClosePrice": 98.11,
-        "DailyChangePercent": -2.64,
-        "Date": "2025-06-12"
+        "ClosePrice": 99.29,
+        "DailyChangePercent": 1.2,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TEL",
@@ -5689,9 +5689,9 @@
         "Date added": "2011-10-17",
         "CIK": "0001385157",
         "Founded": "2007",
-        "ClosePrice": 165.75,
-        "DailyChangePercent": -0.38,
-        "Date": "2025-06-12"
+        "ClosePrice": 166.0,
+        "DailyChangePercent": 0.15,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TDY",
@@ -5702,9 +5702,9 @@
         "Date added": "2020-06-22",
         "CIK": "0001094285",
         "Founded": "1960",
-        "ClosePrice": 498.24,
-        "DailyChangePercent": -0.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 494.95,
+        "DailyChangePercent": -0.66,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TER",
@@ -5715,9 +5715,9 @@
         "Date added": "2020-09-21",
         "CIK": "0000097210",
         "Founded": "1960",
-        "ClosePrice": 86.79,
-        "DailyChangePercent": -2.15,
-        "Date": "2025-06-12"
+        "ClosePrice": 85.91,
+        "DailyChangePercent": -1.01,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TSLA",
@@ -5728,9 +5728,9 @@
         "Date added": "2020-12-21",
         "CIK": "0001318605",
         "Founded": "2003",
-        "ClosePrice": 326.43,
-        "DailyChangePercent": 0.1,
-        "Date": "2025-06-12"
+        "ClosePrice": 319.11,
+        "DailyChangePercent": -2.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TXN",
@@ -5741,9 +5741,9 @@
         "Date added": "2001-03-12",
         "CIK": "0000097476",
         "Founded": "1930",
-        "ClosePrice": 199.69,
-        "DailyChangePercent": -1.29,
-        "Date": "2025-06-12"
+        "ClosePrice": 199.66,
+        "DailyChangePercent": -0.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TPL",
@@ -5754,9 +5754,9 @@
         "Date added": "2024-11-26",
         "CIK": "0001811074",
         "Founded": "1888",
-        "ClosePrice": 1100.01,
-        "DailyChangePercent": 0.04,
-        "Date": "2025-06-12"
+        "ClosePrice": 1097.5,
+        "DailyChangePercent": -0.23,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TXT",
@@ -5767,9 +5767,9 @@
         "Date added": "1978-12-31",
         "CIK": "0000217346",
         "Founded": "1923",
-        "ClosePrice": 76.8,
-        "DailyChangePercent": -1.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 77.8,
+        "DailyChangePercent": 1.3,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TMO",
@@ -5780,9 +5780,9 @@
         "Date added": "2004-08-03",
         "CIK": "0000097745",
         "Founded": "2006 (1902)",
-        "ClosePrice": 415.15,
-        "DailyChangePercent": 0.15,
-        "Date": "2025-06-12"
+        "ClosePrice": 415.33,
+        "DailyChangePercent": 0.04,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TJX",
@@ -5793,9 +5793,9 @@
         "Date added": "1985-09-30",
         "CIK": "0000109198",
         "Founded": "1987",
-        "ClosePrice": 124.53,
-        "DailyChangePercent": -1.2,
-        "Date": "2025-06-12"
+        "ClosePrice": 124.46,
+        "DailyChangePercent": -0.06,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TKO",
@@ -5806,9 +5806,9 @@
         "Date added": "2025-03-24",
         "CIK": "0001973266",
         "Founded": "2023",
-        "ClosePrice": 164.92,
-        "DailyChangePercent": 0.19,
-        "Date": "2025-06-12"
+        "ClosePrice": 163.93,
+        "DailyChangePercent": -0.6,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TSCO",
@@ -5819,9 +5819,9 @@
         "Date added": "2014-01-24",
         "CIK": "0000916365",
         "Founded": "1938",
-        "ClosePrice": 51.31,
-        "DailyChangePercent": -0.33,
-        "Date": "2025-06-12"
+        "ClosePrice": 51.74,
+        "DailyChangePercent": 0.84,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TT",
@@ -5832,9 +5832,9 @@
         "Date added": "2010-11-17",
         "CIK": "0001466258",
         "Founded": "1871",
-        "ClosePrice": 422.96,
-        "DailyChangePercent": 0.3,
-        "Date": "2025-06-12"
+        "ClosePrice": 424.31,
+        "DailyChangePercent": 0.32,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TDG",
@@ -5845,9 +5845,9 @@
         "Date added": "2016-06-03",
         "CIK": "0001260221",
         "Founded": "1993",
-        "ClosePrice": 1429.62,
-        "DailyChangePercent": -0.24,
-        "Date": "2025-06-12"
+        "ClosePrice": 1435.84,
+        "DailyChangePercent": 0.44,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TRV",
@@ -5858,9 +5858,9 @@
         "Date added": "2002-08-21",
         "CIK": "0000086312",
         "Founded": "1853",
-        "ClosePrice": 261.27,
-        "DailyChangePercent": -0.66,
-        "Date": "2025-06-12"
+        "ClosePrice": 265.95,
+        "DailyChangePercent": 1.79,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TRMB",
@@ -5871,9 +5871,9 @@
         "Date added": "2021-01-21",
         "CIK": "0000864749",
         "Founded": "1978",
-        "ClosePrice": 72.54,
-        "DailyChangePercent": -0.36,
-        "Date": "2025-06-12"
+        "ClosePrice": 72.36,
+        "DailyChangePercent": -0.25,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TFC",
@@ -5884,9 +5884,9 @@
         "Date added": "1997-12-04",
         "CIK": "0000092230",
         "Founded": "1872",
-        "ClosePrice": 40.26,
-        "DailyChangePercent": -1.15,
-        "Date": "2025-06-12"
+        "ClosePrice": 39.94,
+        "DailyChangePercent": -0.79,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TYL",
@@ -5897,9 +5897,9 @@
         "Date added": "2020-06-22",
         "CIK": "0000860731",
         "Founded": "1966",
-        "ClosePrice": 584.04,
-        "DailyChangePercent": -0.42,
-        "Date": "2025-06-12"
+        "ClosePrice": 587.74,
+        "DailyChangePercent": 0.63,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "TSN",
@@ -5910,9 +5910,9 @@
         "Date added": "2005-08-10",
         "CIK": "0000100493",
         "Founded": "1935",
-        "ClosePrice": 55.37,
-        "DailyChangePercent": -0.56,
-        "Date": "2025-06-12"
+        "ClosePrice": 55.67,
+        "DailyChangePercent": 0.54,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "USB",
@@ -5923,9 +5923,9 @@
         "Date added": "1999-11-01",
         "CIK": "0000036104",
         "Founded": "1968",
-        "ClosePrice": 44.2,
-        "DailyChangePercent": -2.3,
-        "Date": "2025-06-12"
+        "ClosePrice": 44.16,
+        "DailyChangePercent": -0.09,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "UBER",
@@ -5936,9 +5936,9 @@
         "Date added": "2023-12-18",
         "CIK": "0001543151",
         "Founded": "2009",
-        "ClosePrice": 86.58,
-        "DailyChangePercent": 0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 85.62,
+        "DailyChangePercent": -1.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "UDR",
@@ -5949,9 +5949,9 @@
         "Date added": "2016-03-07",
         "CIK": "0000074208",
         "Founded": "1972",
-        "ClosePrice": 41.57,
-        "DailyChangePercent": -0.91,
-        "Date": "2025-06-12"
+        "ClosePrice": 41.94,
+        "DailyChangePercent": 0.89,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ULTA",
@@ -5962,9 +5962,9 @@
         "Date added": "2016-04-18",
         "CIK": "0001403568",
         "Founded": "1990",
-        "ClosePrice": 456.97,
-        "DailyChangePercent": -1.13,
-        "Date": "2025-06-12"
+        "ClosePrice": 462.43,
+        "DailyChangePercent": 1.19,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "UNP",
@@ -5975,9 +5975,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000100885",
         "Founded": "1862",
-        "ClosePrice": 225.72,
-        "DailyChangePercent": -0.39,
-        "Date": "2025-06-12"
+        "ClosePrice": 225.49,
+        "DailyChangePercent": -0.1,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "UAL",
@@ -5988,9 +5988,9 @@
         "Date added": "2015-09-03",
         "CIK": "0000100517",
         "Founded": "1967",
-        "ClosePrice": 78.63,
-        "DailyChangePercent": -5.49,
-        "Date": "2025-06-12"
+        "ClosePrice": 77.43,
+        "DailyChangePercent": -1.53,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "UPS",
@@ -6001,9 +6001,9 @@
         "Date added": "2002-07-22",
         "CIK": "0001090727",
         "Founded": "1907",
-        "ClosePrice": 101.16,
-        "DailyChangePercent": -1.27,
-        "Date": "2025-06-12"
+        "ClosePrice": 100.92,
+        "DailyChangePercent": -0.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "URI",
@@ -6014,9 +6014,9 @@
         "Date added": "2014-09-20",
         "CIK": "0001067701",
         "Founded": "1997",
-        "ClosePrice": 719.95,
-        "DailyChangePercent": 0.59,
-        "Date": "2025-06-12"
+        "ClosePrice": 716.92,
+        "DailyChangePercent": -0.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "UNH",
@@ -6027,9 +6027,9 @@
         "Date added": "1994-07-01",
         "CIK": "0000731766",
         "Founded": "1977",
-        "ClosePrice": 310.56,
-        "DailyChangePercent": 2.23,
-        "Date": "2025-06-12"
+        "ClosePrice": 318.5,
+        "DailyChangePercent": 2.56,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "UHS",
@@ -6040,9 +6040,9 @@
         "Date added": "2014-09-20",
         "CIK": "0000352915",
         "Founded": "1979",
-        "ClosePrice": 172.29,
-        "DailyChangePercent": -0.22,
-        "Date": "2025-06-12"
+        "ClosePrice": 173.66,
+        "DailyChangePercent": 0.8,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VLO",
@@ -6053,9 +6053,9 @@
         "Date added": "2002-12-20",
         "CIK": "0001035002",
         "Founded": "1980",
-        "ClosePrice": 134.06,
-        "DailyChangePercent": 1.61,
-        "Date": "2025-06-12"
+        "ClosePrice": 133.5,
+        "DailyChangePercent": -0.42,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VTR",
@@ -6066,9 +6066,9 @@
         "Date added": "2009-03-04",
         "CIK": "0000740260",
         "Founded": "1998",
-        "ClosePrice": 63.41,
-        "DailyChangePercent": -0.06,
-        "Date": "2025-06-12"
+        "ClosePrice": 63.72,
+        "DailyChangePercent": 0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VLTO",
@@ -6079,9 +6079,9 @@
         "Date added": "2023-10-02",
         "CIK": "0001967680",
         "Founded": "2023",
-        "ClosePrice": 98.21,
-        "DailyChangePercent": -1.75,
-        "Date": "2025-06-12"
+        "ClosePrice": 98.75,
+        "DailyChangePercent": 0.55,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VRSN",
@@ -6092,9 +6092,9 @@
         "Date added": "2006-02-01",
         "CIK": "0001014473",
         "Founded": "1995",
-        "ClosePrice": 279.83,
-        "DailyChangePercent": 0.48,
-        "Date": "2025-06-12"
+        "ClosePrice": 281.81,
+        "DailyChangePercent": 0.71,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VRSK",
@@ -6105,9 +6105,9 @@
         "Date added": "2015-10-08",
         "CIK": "0001442145",
         "Founded": "1971",
-        "ClosePrice": 311.49,
-        "DailyChangePercent": -0.25,
-        "Date": "2025-06-12"
+        "ClosePrice": 313.91,
+        "DailyChangePercent": 0.78,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VZ",
@@ -6118,9 +6118,9 @@
         "Date added": "1983-11-30",
         "CIK": "0000732712",
         "Founded": "1983 (1877)",
-        "ClosePrice": 43.74,
-        "DailyChangePercent": -0.88,
-        "Date": "2025-06-12"
+        "ClosePrice": 43.16,
+        "DailyChangePercent": -1.33,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VRTX",
@@ -6131,9 +6131,9 @@
         "Date added": "2013-09-23",
         "CIK": "0000875320",
         "Founded": "1989",
-        "ClosePrice": 452.44,
-        "DailyChangePercent": 0.2,
-        "Date": "2025-06-12"
+        "ClosePrice": 460.06,
+        "DailyChangePercent": 1.68,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VTRS",
@@ -6144,9 +6144,9 @@
         "Date added": "2004-04-23",
         "CIK": "0001792044",
         "Founded": "1961",
-        "ClosePrice": 8.98,
-        "DailyChangePercent": -0.66,
-        "Date": "2025-06-12"
+        "ClosePrice": 9.09,
+        "DailyChangePercent": 1.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VICI",
@@ -6157,9 +6157,9 @@
         "Date added": "2022-06-08",
         "CIK": "0001705696",
         "Founded": "2017",
-        "ClosePrice": 32.48,
-        "DailyChangePercent": 0.09,
-        "Date": "2025-06-12"
+        "ClosePrice": 32.59,
+        "DailyChangePercent": 0.34,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "V",
@@ -6170,9 +6170,9 @@
         "Date added": "2009-12-21",
         "CIK": "0001403161",
         "Founded": "1958",
-        "ClosePrice": 373.31,
-        "DailyChangePercent": 0.7,
-        "Date": "2025-06-12"
+        "ClosePrice": 371.4,
+        "DailyChangePercent": -0.51,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VST",
@@ -6183,9 +6183,9 @@
         "Date added": "2024-05-08",
         "CIK": "0001692819",
         "Founded": "2016",
-        "ClosePrice": 166.79,
-        "DailyChangePercent": 1.3,
-        "Date": "2025-06-12"
+        "ClosePrice": 173.87,
+        "DailyChangePercent": 4.24,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "VMC",
@@ -6196,9 +6196,9 @@
         "Date added": "1999-06-30",
         "CIK": "0001396009",
         "Founded": "1909",
-        "ClosePrice": 261.12,
-        "DailyChangePercent": -1.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 265.53,
+        "DailyChangePercent": 1.69,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WRB",
@@ -6209,9 +6209,9 @@
         "Date added": "2019-12-05",
         "CIK": "0000011544",
         "Founded": "1967",
-        "ClosePrice": 72.39,
-        "DailyChangePercent": 0.82,
-        "Date": "2025-06-12"
+        "ClosePrice": 73.79,
+        "DailyChangePercent": 1.93,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "GWW",
@@ -6222,9 +6222,9 @@
         "Date added": "1981-06-30",
         "CIK": "0000277135",
         "Founded": "1927",
-        "ClosePrice": 1078.63,
-        "DailyChangePercent": -0.62,
-        "Date": "2025-06-12"
+        "ClosePrice": 1081.55,
+        "DailyChangePercent": 0.27,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WAB",
@@ -6235,9 +6235,9 @@
         "Date added": "2019-02-27",
         "CIK": "0000943452",
         "Founded": "1999 (1869)",
-        "ClosePrice": 204.09,
-        "DailyChangePercent": -0.21,
-        "Date": "2025-06-12"
+        "ClosePrice": 203.86,
+        "DailyChangePercent": -0.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WBA",
@@ -6248,9 +6248,9 @@
         "Date added": "1979-12-31",
         "CIK": "0001618921",
         "Founded": "2014",
-        "ClosePrice": 11.34,
-        "DailyChangePercent": -0.09,
-        "Date": "2025-06-12"
+        "ClosePrice": 11.36,
+        "DailyChangePercent": 0.18,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WMT",
@@ -6261,9 +6261,9 @@
         "Date added": "1982-08-31",
         "CIK": "0000104169",
         "Founded": "1962",
-        "ClosePrice": 95.8,
-        "DailyChangePercent": -1.56,
-        "Date": "2025-06-12"
+        "ClosePrice": 94.83,
+        "DailyChangePercent": -1.01,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "DIS",
@@ -6274,9 +6274,9 @@
         "Date added": "1976-06-30",
         "CIK": "0001744489",
         "Founded": "1923",
-        "ClosePrice": 119.52,
-        "DailyChangePercent": 0.67,
-        "Date": "2025-06-12"
+        "ClosePrice": 118.61,
+        "DailyChangePercent": -0.76,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WBD",
@@ -6287,9 +6287,9 @@
         "Date added": "2022-04-11",
         "CIK": "0001437107",
         "Founded": "2022 (Warner Bros. 1923)",
-        "ClosePrice": 10.51,
-        "DailyChangePercent": 5.0,
-        "Date": "2025-06-12"
+        "ClosePrice": 10.16,
+        "DailyChangePercent": -3.33,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WM",
@@ -6300,9 +6300,9 @@
         "Date added": "1998-08-31",
         "CIK": "0000823768",
         "Founded": "1968",
-        "ClosePrice": 234.29,
-        "DailyChangePercent": 0.13,
-        "Date": "2025-06-12"
+        "ClosePrice": 237.15,
+        "DailyChangePercent": 1.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WAT",
@@ -6313,9 +6313,9 @@
         "Date added": "2002-01-02",
         "CIK": "0001000697",
         "Founded": "1958",
-        "ClosePrice": 346.05,
-        "DailyChangePercent": -1.08,
-        "Date": "2025-06-12"
+        "ClosePrice": 349.57,
+        "DailyChangePercent": 1.02,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WEC",
@@ -6326,9 +6326,9 @@
         "Date added": "2008-10-31",
         "CIK": "0000783325",
         "Founded": "1896",
-        "ClosePrice": 105.58,
-        "DailyChangePercent": -0.01,
-        "Date": "2025-06-12"
+        "ClosePrice": 106.44,
+        "DailyChangePercent": 0.81,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WFC",
@@ -6339,9 +6339,9 @@
         "Date added": "1976-06-30",
         "CIK": "0000072971",
         "Founded": "1852",
-        "ClosePrice": 74.93,
-        "DailyChangePercent": -0.69,
-        "Date": "2025-06-12"
+        "ClosePrice": 74.01,
+        "DailyChangePercent": -1.23,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WELL",
@@ -6352,9 +6352,9 @@
         "Date added": "2009-01-30",
         "CIK": "0000766704",
         "Founded": "1970",
-        "ClosePrice": 150.24,
-        "DailyChangePercent": -0.44,
-        "Date": "2025-06-12"
+        "ClosePrice": 151.91,
+        "DailyChangePercent": 1.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WST",
@@ -6365,9 +6365,9 @@
         "Date added": "2020-05-22",
         "CIK": "0000105770",
         "Founded": "1923",
-        "ClosePrice": 224.01,
-        "DailyChangePercent": -1.62,
-        "Date": "2025-06-12"
+        "ClosePrice": 224.91,
+        "DailyChangePercent": 0.4,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WDC",
@@ -6378,9 +6378,9 @@
         "Date added": "2009-07-01",
         "CIK": "0000106040",
         "Founded": "1970",
-        "ClosePrice": 55.67,
-        "DailyChangePercent": -0.5,
-        "Date": "2025-06-12"
+        "ClosePrice": 55.78,
+        "DailyChangePercent": 0.2,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WY",
@@ -6391,9 +6391,9 @@
         "Date added": "1979-10-01",
         "CIK": "0000106535",
         "Founded": "1900",
-        "ClosePrice": 27.36,
-        "DailyChangePercent": -0.8,
-        "Date": "2025-06-12"
+        "ClosePrice": 27.3,
+        "DailyChangePercent": -0.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WSM",
@@ -6404,9 +6404,9 @@
         "Date added": "2025-03-24",
         "CIK": "0000719955",
         "Founded": "1956",
-        "ClosePrice": 155.58,
-        "DailyChangePercent": -1.59,
-        "Date": "2025-06-12"
+        "ClosePrice": 154.81,
+        "DailyChangePercent": -0.49,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WMB",
@@ -6417,9 +6417,9 @@
         "Date added": "1975-03-31",
         "CIK": "0000107263",
         "Founded": "1908",
-        "ClosePrice": 59.42,
-        "DailyChangePercent": 0.78,
-        "Date": "2025-06-12"
+        "ClosePrice": 60.08,
+        "DailyChangePercent": 1.11,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WTW",
@@ -6430,9 +6430,9 @@
         "Date added": "2016-01-05",
         "CIK": "0001140536",
         "Founded": "2016",
-        "ClosePrice": 295.96,
-        "DailyChangePercent": -0.29,
-        "Date": "2025-06-12"
+        "ClosePrice": 301.11,
+        "DailyChangePercent": 1.74,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WDAY",
@@ -6443,9 +6443,9 @@
         "Date added": "2024-12-23",
         "CIK": "0001327811",
         "Founded": "2005",
-        "ClosePrice": 251.36,
-        "DailyChangePercent": -0.54,
-        "Date": "2025-06-12"
+        "ClosePrice": 250.69,
+        "DailyChangePercent": -0.27,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "WYNN",
@@ -6456,9 +6456,9 @@
         "Date added": "2008-11-14",
         "CIK": "0001174922",
         "Founded": "2002",
-        "ClosePrice": 87.52,
-        "DailyChangePercent": 0.98,
-        "Date": "2025-06-12"
+        "ClosePrice": 87.07,
+        "DailyChangePercent": -0.51,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "XEL",
@@ -6469,9 +6469,9 @@
         "Date added": "1957-03-04",
         "CIK": "0000072903",
         "Founded": "1909",
-        "ClosePrice": 68.25,
-        "DailyChangePercent": -1.03,
-        "Date": "2025-06-12"
+        "ClosePrice": 69.07,
+        "DailyChangePercent": 1.2,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "XYL",
@@ -6482,9 +6482,9 @@
         "Date added": "2011-11-01",
         "CIK": "0001524472",
         "Founded": "2011",
-        "ClosePrice": 127.02,
-        "DailyChangePercent": -1.14,
-        "Date": "2025-06-12"
+        "ClosePrice": 127.3,
+        "DailyChangePercent": 0.22,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "YUM",
@@ -6495,9 +6495,9 @@
         "Date added": "1997-10-06",
         "CIK": "0001041061",
         "Founded": "1997",
-        "ClosePrice": 143.41,
-        "DailyChangePercent": -0.35,
-        "Date": "2025-06-12"
+        "ClosePrice": 143.97,
+        "DailyChangePercent": 0.39,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ZBRA",
@@ -6508,9 +6508,9 @@
         "Date added": "2019-12-23",
         "CIK": "0000877212",
         "Founded": "1969",
-        "ClosePrice": 292.82,
-        "DailyChangePercent": -2.25,
-        "Date": "2025-06-12"
+        "ClosePrice": 292.68,
+        "DailyChangePercent": -0.05,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ZBH",
@@ -6521,9 +6521,9 @@
         "Date added": "2001-08-07",
         "CIK": "0001136869",
         "Founded": "1927",
-        "ClosePrice": 94.24,
-        "DailyChangePercent": -0.72,
-        "Date": "2025-06-12"
+        "ClosePrice": 93.26,
+        "DailyChangePercent": -1.04,
+        "Date": "2025-06-13"
     },
     {
         "Symbol": "ZTS",
@@ -6534,8 +6534,8 @@
         "Date added": "2013-06-21",
         "CIK": "0001555280",
         "Founded": "1952",
-        "ClosePrice": 166.33,
-        "DailyChangePercent": -0.46,
-        "Date": "2025-06-12"
+        "ClosePrice": 168.82,
+        "DailyChangePercent": 1.5,
+        "Date": "2025-06-13"
     }
 ]
